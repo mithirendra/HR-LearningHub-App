@@ -1,51 +1,501 @@
 course_id,title,skills_covered,level,format,duration_hours
-CRS001,Leadership — Fundamentals,"Change Management, Tableau",Intermediate,Webinar,4
-CRS002,Risk Management — Masterclass,"Python, Recruitment",Advanced,Webinar,8
-CRS003,Python — Fundamentals,"Coaching, Recruitment, Project Management",Beginner,In-Person,24
-CRS004,Risk Management — Fundamentals,Excel,Beginner,Blended,8
-CRS005,Coaching — Fundamentals,"Communication, Risk Management, Recruitment",Intermediate,Webinar,2
-CRS006,Communication — Masterclass,"Employment Law, Stakeholder Management",Beginner,Online,2
-CRS007,Project Management — Essentials,"Coaching, Leadership, Stakeholder Management",Intermediate,Webinar,4
-CRS008,Change Management — Essentials,Leadership,Beginner,Online,16
-CRS009,Project Management — Essentials,Employment Law,Advanced,Blended,40
-CRS010,Excel — Masterclass,"Project Management, Tableau",Intermediate,In-Person,2
-CRS011,SQL — Advanced,Agile,Beginner,Blended,24
-CRS012,Recruitment — Essentials,"Communication, Excel, Machine Learning",Intermediate,Webinar,40
-CRS013,Agile — Essentials,"Excel, Communication",Intermediate,Online,16
-CRS014,Risk Management — Masterclass,Tableau,Advanced,In-Person,4
-CRS015,Budgeting — Fundamentals,Machine Learning,Beginner,Blended,4
-CRS016,Project Management — Masterclass,"Power BI, Recruitment, Change Management",Beginner,Blended,4
-CRS017,Tableau — Masterclass,Change Management,Advanced,Online,24
-CRS018,Project Management — Advanced,Employment Law,Advanced,Online,2
-CRS019,Excel — Fundamentals,"Stakeholder Management, SQL, Budgeting",Advanced,Online,16
-CRS020,Tableau — Masterclass,"Change Management, Agile, Power BI",Advanced,Webinar,8
-CRS021,Risk Management — Fundamentals,"Python, Project Management, Risk Management",Intermediate,Webinar,16
-CRS022,SQL — Masterclass,"Communication, Employment Law, Machine Learning",Advanced,Blended,16
-CRS023,Communication — Masterclass,"Tableau, Leadership, Employment Law",Beginner,Webinar,2
-CRS024,Stakeholder Management — Essentials,Communication,Beginner,Online,8
-CRS025,Coaching — Essentials,Project Management,Intermediate,Blended,4
-CRS026,Project Management — Essentials,"Risk Management, Agile, Change Management",Intermediate,Online,2
-CRS027,Coaching — Essentials,SQL,Advanced,Blended,2
-CRS028,Python — Masterclass,"Agile, Change Management",Advanced,Online,2
-CRS029,Budgeting — Advanced,"Recruitment, Coaching",Intermediate,Online,16
-CRS030,Python — Advanced,"Tableau, Change Management",Beginner,Webinar,24
-CRS031,Risk Management — Masterclass,"Leadership, Communication, Tableau",Intermediate,Blended,8
-CRS032,Tableau — Masterclass,SQL,Advanced,Webinar,24
-CRS033,Python — Fundamentals,Communication,Advanced,Blended,16
-CRS034,Machine Learning — Essentials,Machine Learning,Beginner,Blended,24
-CRS035,Employment Law — Advanced,"Change Management, Employment Law",Advanced,Webinar,40
-CRS036,Change Management — Essentials,Recruitment,Intermediate,Online,16
-CRS037,Change Management — Fundamentals,"Agile, Stakeholder Management, Power BI",Advanced,Online,24
-CRS038,Agile — Advanced,"Coaching, Communication, Power BI",Beginner,Online,4
-CRS039,Data Analysis — Essentials,"Budgeting, Communication",Intermediate,In-Person,16
-CRS040,Machine Learning — Essentials,"Python, Communication, SQL",Advanced,Blended,40
-CRS041,Agile — Essentials,"Project Management, Risk Management",Advanced,Blended,24
-CRS042,Recruitment — Masterclass,"Agile, SQL, Power BI",Intermediate,Blended,4
-CRS043,Change Management — Masterclass,"SQL, Agile, Employment Law",Intermediate,Blended,24
-CRS044,Stakeholder Management — Masterclass,Tableau,Intermediate,Webinar,8
-CRS045,Communication — Masterclass,Change Management,Advanced,Online,8
-CRS046,Risk Management — Masterclass,"Agile, SQL, Machine Learning",Advanced,Blended,24
-CRS047,Stakeholder Management — Advanced,Power BI,Beginner,Online,40
-CRS048,Machine Learning — Advanced,"Power BI, Python, Leadership",Intermediate,Blended,40
-CRS049,Agile — Fundamentals,"Communication, Data Analysis, Project Management",Intermediate,Webinar,16
-CRS050,SQL — Masterclass,"Change Management, Python",Beginner,In-Person,24
+CRS001,Stakeholder Management — Advanced,"Power BI, Risk Management",Beginner,Online,4
+CRS002,Agile — Essentials,Tableau,Advanced,In-Person,2
+CRS003,Stakeholder Management — Masterclass,"Stakeholder Management, Leadership, Tableau",Advanced,Blended,40
+CRS004,Coaching — Fundamentals,Leadership,Beginner,Blended,8
+CRS005,Power BI — Advanced,"Agile, Machine Learning, Data Analysis",Beginner,Online,8
+CRS006,Tableau — Essentials,"Employment Law, Data Analysis, Agile",Beginner,In-Person,2
+CRS007,Change Management — Essentials,"Stakeholder Management, SQL",Advanced,Webinar,40
+CRS008,Recruitment — Fundamentals,"Agile, SQL",Beginner,Blended,2
+CRS009,Employment Law — Masterclass,"Power BI, Employment Law",Intermediate,In-Person,16
+CRS010,Tableau — Fundamentals,"Excel, Leadership, Communication",Beginner,Webinar,2
+CRS011,SQL — Essentials,"Tableau, Excel",Beginner,Webinar,40
+CRS012,Communication — Advanced,"SQL, Tableau, Recruitment",Beginner,Online,8
+CRS013,Data Analysis — Essentials,Stakeholder Management,Advanced,Webinar,4
+CRS014,Excel — Masterclass,Leadership,Beginner,Blended,24
+CRS015,Tableau — Advanced,Agile,Advanced,Blended,24
+CRS016,Project Management — Fundamentals,"SQL, Budgeting",Intermediate,Online,2
+CRS017,Machine Learning — Advanced,"Stakeholder Management, Data Analysis, Budgeting",Advanced,Blended,8
+CRS018,Risk Management — Advanced,Leadership,Advanced,Online,40
+CRS019,Stakeholder Management — Advanced,Project Management,Beginner,Online,40
+CRS020,Project Management — Advanced,SQL,Beginner,Blended,16
+CRS021,Python — Essentials,Communication,Beginner,Online,40
+CRS022,SQL — Masterclass,"Change Management, Budgeting, Communication",Advanced,Online,4
+CRS023,Agile — Essentials,Project Management,Intermediate,Online,24
+CRS024,Project Management — Essentials,Excel,Beginner,In-Person,2
+CRS025,Communication — Essentials,Budgeting,Beginner,In-Person,8
+CRS026,Machine Learning — Masterclass,"Project Management, SQL",Intermediate,Webinar,4
+CRS027,Risk Management — Masterclass,"Stakeholder Management, SQL",Advanced,Online,4
+CRS028,Coaching — Masterclass,"Tableau, Risk Management",Beginner,Online,40
+CRS029,Communication — Fundamentals,Tableau,Beginner,Webinar,16
+CRS030,Communication — Fundamentals,"Project Management, Power BI, Communication",Beginner,Online,24
+CRS031,Tableau — Fundamentals,Tableau,Advanced,Online,8
+CRS032,Machine Learning — Fundamentals,"Stakeholder Management, Employment Law",Advanced,In-Person,4
+CRS033,Python — Essentials,"SQL, Communication",Beginner,Online,24
+CRS034,Communication — Essentials,Budgeting,Advanced,Online,40
+CRS035,Employment Law — Essentials,Stakeholder Management,Intermediate,Online,2
+CRS036,Data Analysis — Fundamentals,"Data Analysis, Tableau, Excel",Intermediate,In-Person,40
+CRS037,Excel — Fundamentals,"SQL, Agile, Leadership",Intermediate,Blended,2
+CRS038,Data Analysis — Advanced,"Employment Law, Coaching",Advanced,Online,24
+CRS039,Change Management — Masterclass,"Project Management, Excel",Advanced,In-Person,24
+CRS040,Tableau — Essentials,"Agile, Machine Learning",Beginner,In-Person,4
+CRS041,Change Management — Fundamentals,"Coaching, Agile",Beginner,Webinar,16
+CRS042,Data Analysis — Fundamentals,"Python, Data Analysis, Stakeholder Management",Beginner,Webinar,8
+CRS043,Employment Law — Fundamentals,"Machine Learning, Stakeholder Management",Advanced,In-Person,16
+CRS044,Coaching — Fundamentals,Budgeting,Beginner,Blended,24
+CRS045,Power BI — Masterclass,"Python, Recruitment",Intermediate,In-Person,24
+CRS046,Coaching — Fundamentals,"Python, Agile, Tableau",Intermediate,In-Person,4
+CRS047,Budgeting — Essentials,"Recruitment, Data Analysis, Project Management",Beginner,Online,2
+CRS048,Stakeholder Management — Fundamentals,Coaching,Intermediate,Online,24
+CRS049,Machine Learning — Fundamentals,"Stakeholder Management, Project Management",Advanced,Webinar,16
+CRS050,Power BI — Advanced,"SQL, Machine Learning",Advanced,Online,16
+CRS051,Stakeholder Management — Advanced,Excel,Beginner,Webinar,24
+CRS052,Change Management — Advanced,"Change Management, Budgeting, Tableau",Beginner,Online,4
+CRS053,Budgeting — Advanced,"Machine Learning, Budgeting",Beginner,Online,8
+CRS054,Stakeholder Management — Fundamentals,"Python, Coaching",Intermediate,Webinar,4
+CRS055,Recruitment — Masterclass,"Python, Project Management",Intermediate,In-Person,40
+CRS056,Recruitment — Masterclass,"Project Management, Change Management, SQL",Advanced,Online,40
+CRS057,Excel — Essentials,"Change Management, Budgeting",Intermediate,Blended,24
+CRS058,Machine Learning — Fundamentals,Leadership,Intermediate,In-Person,24
+CRS059,Machine Learning — Advanced,"Employment Law, Communication",Intermediate,Online,40
+CRS060,Employment Law — Fundamentals,"Python, Change Management",Beginner,In-Person,4
+CRS061,SQL — Masterclass,Machine Learning,Intermediate,Blended,40
+CRS062,Leadership — Essentials,"Power BI, Communication, Leadership",Beginner,Online,40
+CRS063,Risk Management — Essentials,"Leadership, Python, SQL",Beginner,Online,40
+CRS064,SQL — Essentials,Communication,Intermediate,Blended,4
+CRS065,Python — Essentials,Excel,Beginner,Webinar,8
+CRS066,Coaching — Fundamentals,"Machine Learning, Budgeting",Advanced,Online,2
+CRS067,Project Management — Advanced,Data Analysis,Advanced,Online,8
+CRS068,Budgeting — Fundamentals,"Communication, Machine Learning, Data Analysis",Beginner,Webinar,8
+CRS069,Agile — Essentials,"Change Management, Leadership",Advanced,Webinar,2
+CRS070,SQL — Essentials,"Recruitment, Communication",Beginner,Online,8
+CRS071,Excel — Fundamentals,"Change Management, Leadership, Tableau",Beginner,In-Person,16
+CRS072,Machine Learning — Essentials,"Data Analysis, Communication",Intermediate,In-Person,4
+CRS073,Project Management — Advanced,"Machine Learning, Communication, Excel",Beginner,Webinar,8
+CRS074,Employment Law — Masterclass,"Excel, Tableau",Intermediate,Online,40
+CRS075,Change Management — Advanced,"Tableau, Budgeting, Python",Intermediate,Online,8
+CRS076,Power BI — Essentials,"Budgeting, Tableau",Advanced,Online,24
+CRS077,Leadership — Fundamentals,"Communication, Budgeting, Data Analysis",Beginner,In-Person,2
+CRS078,Machine Learning — Advanced,"Coaching, Tableau",Advanced,Online,2
+CRS079,Coaching — Advanced,"Risk Management, Excel, Employment Law",Advanced,In-Person,2
+CRS080,Project Management — Advanced,"Employment Law, Recruitment",Beginner,Webinar,24
+CRS081,Tableau — Advanced,"Leadership, Agile",Advanced,Webinar,16
+CRS082,Tableau — Advanced,"SQL, Machine Learning, Stakeholder Management",Intermediate,Online,2
+CRS083,Power BI — Masterclass,"Data Analysis, Machine Learning, Risk Management",Beginner,Blended,8
+CRS084,Power BI — Essentials,"Tableau, Machine Learning, Communication",Intermediate,Online,4
+CRS085,Power BI — Masterclass,"Leadership, Python, Tableau",Advanced,Blended,16
+CRS086,Data Analysis — Fundamentals,"Recruitment, Excel, Change Management",Intermediate,In-Person,2
+CRS087,Risk Management — Masterclass,"Project Management, Coaching, Budgeting",Advanced,Webinar,40
+CRS088,Change Management — Essentials,Machine Learning,Intermediate,In-Person,24
+CRS089,Recruitment — Essentials,"Power BI, Communication, Employment Law",Advanced,Online,8
+CRS090,Data Analysis — Masterclass,"SQL, Project Management, Tableau",Beginner,In-Person,4
+CRS091,Change Management — Advanced,"Coaching, Python",Intermediate,Online,24
+CRS092,Agile — Advanced,"Leadership, Risk Management",Intermediate,Online,40
+CRS093,Risk Management — Advanced,"SQL, Change Management, Power BI",Advanced,In-Person,8
+CRS094,Recruitment — Advanced,"Communication, Data Analysis, Change Management",Beginner,Blended,16
+CRS095,Leadership — Advanced,"Budgeting, Employment Law, Data Analysis",Advanced,In-Person,16
+CRS096,Recruitment — Advanced,"Stakeholder Management, Excel",Advanced,Webinar,24
+CRS097,Coaching — Masterclass,"Excel, SQL",Beginner,Webinar,16
+CRS098,Leadership — Advanced,Machine Learning,Intermediate,Blended,2
+CRS099,Stakeholder Management — Advanced,"Coaching, Communication",Beginner,Blended,24
+CRS100,Stakeholder Management — Fundamentals,Project Management,Intermediate,In-Person,2
+CRS101,Data Analysis — Essentials,"Coaching, Tableau, Excel",Beginner,Online,16
+CRS102,Machine Learning — Advanced,Excel,Advanced,In-Person,24
+CRS103,Employment Law — Fundamentals,Excel,Intermediate,Online,24
+CRS104,Stakeholder Management — Fundamentals,"Excel, Employment Law",Beginner,Webinar,16
+CRS105,Project Management — Advanced,"Risk Management, Budgeting, Communication",Beginner,Blended,4
+CRS106,Stakeholder Management — Masterclass,Agile,Intermediate,Webinar,24
+CRS107,Change Management — Essentials,Python,Advanced,Webinar,4
+CRS108,Coaching — Essentials,"Communication, Tableau, Recruitment",Beginner,Online,40
+CRS109,Agile — Essentials,"Python, Project Management",Advanced,Online,8
+CRS110,Data Analysis — Essentials,"Tableau, Stakeholder Management, Excel",Beginner,In-Person,4
+CRS111,Risk Management — Advanced,Communication,Intermediate,Blended,40
+CRS112,Project Management — Advanced,"Coaching, Leadership",Intermediate,Online,16
+CRS113,Data Analysis — Advanced,Leadership,Beginner,In-Person,2
+CRS114,Coaching — Fundamentals,Budgeting,Beginner,Blended,4
+CRS115,Risk Management — Essentials,"Recruitment, Coaching, Leadership",Beginner,In-Person,16
+CRS116,Excel — Masterclass,"Stakeholder Management, Python",Advanced,In-Person,24
+CRS117,Employment Law — Fundamentals,Coaching,Intermediate,Online,2
+CRS118,Budgeting — Masterclass,"Python, Power BI",Intermediate,In-Person,40
+CRS119,Stakeholder Management — Fundamentals,"Agile, Leadership",Beginner,Webinar,40
+CRS120,Agile — Advanced,Excel,Beginner,In-Person,40
+CRS121,Excel — Essentials,"Tableau, Project Management, Leadership",Advanced,In-Person,8
+CRS122,Machine Learning — Essentials,Tableau,Intermediate,Webinar,40
+CRS123,Risk Management — Advanced,"Power BI, Tableau",Beginner,In-Person,24
+CRS124,Employment Law — Essentials,Employment Law,Beginner,Webinar,40
+CRS125,Data Analysis — Essentials,"Tableau, Budgeting, Coaching",Advanced,Online,16
+CRS126,Agile — Fundamentals,"Agile, Power BI",Intermediate,In-Person,2
+CRS127,Recruitment — Fundamentals,"Tableau, Communication",Beginner,In-Person,4
+CRS128,Power BI — Masterclass,"Project Management, Excel",Intermediate,Blended,2
+CRS129,Employment Law — Essentials,Stakeholder Management,Intermediate,In-Person,40
+CRS130,Excel — Advanced,Communication,Intermediate,Webinar,16
+CRS131,Python — Masterclass,Budgeting,Advanced,Blended,24
+CRS132,Data Analysis — Advanced,Python,Intermediate,Online,24
+CRS133,Power BI — Essentials,"Stakeholder Management, Machine Learning, Change Management",Advanced,In-Person,8
+CRS134,Employment Law — Fundamentals,"Excel, Change Management, Recruitment",Intermediate,Webinar,2
+CRS135,Risk Management — Fundamentals,"Project Management, Power BI",Advanced,Webinar,16
+CRS136,Coaching — Essentials,Tableau,Advanced,In-Person,2
+CRS137,Risk Management — Masterclass,"Excel, Tableau",Advanced,Webinar,16
+CRS138,Tableau — Essentials,"Tableau, Communication",Advanced,Webinar,24
+CRS139,Agile — Advanced,Employment Law,Advanced,In-Person,16
+CRS140,Python — Masterclass,"Machine Learning, Data Analysis, Coaching",Advanced,In-Person,40
+CRS141,Power BI — Masterclass,Stakeholder Management,Beginner,Blended,16
+CRS142,Coaching — Masterclass,"Risk Management, Python, Data Analysis",Advanced,Online,4
+CRS143,Stakeholder Management — Advanced,"Employment Law, Recruitment, Stakeholder Management",Intermediate,In-Person,24
+CRS144,Coaching — Essentials,"Coaching, SQL, Communication",Intermediate,Blended,4
+CRS145,Power BI — Advanced,"Tableau, Stakeholder Management, Coaching",Beginner,In-Person,24
+CRS146,Leadership — Masterclass,"Project Management, Stakeholder Management",Beginner,Blended,4
+CRS147,Tableau — Masterclass,"Agile, Project Management, Employment Law",Intermediate,In-Person,24
+CRS148,Project Management — Essentials,"Power BI, Tableau, Employment Law",Advanced,Blended,2
+CRS149,Power BI — Fundamentals,"Coaching, Recruitment, Machine Learning",Beginner,Webinar,24
+CRS150,Stakeholder Management — Essentials,"Employment Law, Data Analysis, Tableau",Intermediate,Blended,8
+CRS151,Power BI — Fundamentals,Change Management,Advanced,Online,40
+CRS152,Machine Learning — Fundamentals,Agile,Advanced,Webinar,4
+CRS153,Python — Advanced,"Employment Law, Power BI, Stakeholder Management",Beginner,Online,8
+CRS154,SQL — Essentials,"Excel, Employment Law",Intermediate,Webinar,2
+CRS155,Employment Law — Masterclass,Leadership,Beginner,In-Person,8
+CRS156,SQL — Essentials,"Machine Learning, Leadership",Beginner,Webinar,16
+CRS157,Employment Law — Fundamentals,Stakeholder Management,Beginner,Online,8
+CRS158,Excel — Fundamentals,"Project Management, Risk Management",Intermediate,Online,40
+CRS159,Machine Learning — Essentials,"Python, Communication, Agile",Beginner,Blended,8
+CRS160,Communication — Advanced,"Machine Learning, Recruitment, Coaching",Beginner,In-Person,8
+CRS161,Tableau — Essentials,"Python, Employment Law",Advanced,Webinar,16
+CRS162,Tableau — Essentials,"Change Management, Project Management",Beginner,Webinar,40
+CRS163,Employment Law — Masterclass,"Stakeholder Management, Employment Law, Budgeting",Intermediate,Blended,40
+CRS164,Change Management — Advanced,"Communication, Change Management, Leadership",Beginner,Webinar,8
+CRS165,Data Analysis — Advanced,Python,Beginner,In-Person,8
+CRS166,Recruitment — Advanced,"Power BI, Excel, Tableau",Beginner,Online,8
+CRS167,Employment Law — Fundamentals,Data Analysis,Intermediate,Blended,16
+CRS168,Python — Advanced,"Budgeting, Project Management, Leadership",Intermediate,Blended,8
+CRS169,Machine Learning — Essentials,"Agile, Communication",Intermediate,In-Person,16
+CRS170,Risk Management — Essentials,"Change Management, Budgeting, Communication",Advanced,Online,4
+CRS171,Recruitment — Advanced,"Change Management, SQL",Beginner,In-Person,4
+CRS172,Tableau — Fundamentals,"Communication, SQL, Excel",Beginner,In-Person,24
+CRS173,Communication — Fundamentals,"Change Management, Excel, Python",Intermediate,Online,2
+CRS174,Machine Learning — Advanced,"Stakeholder Management, Agile",Beginner,In-Person,40
+CRS175,Tableau — Essentials,"Data Analysis, Project Management",Intermediate,Webinar,24
+CRS176,Excel — Essentials,Project Management,Intermediate,Webinar,16
+CRS177,Employment Law — Masterclass,"Recruitment, Stakeholder Management, Agile",Beginner,Webinar,4
+CRS178,Python — Masterclass,Excel,Advanced,Webinar,16
+CRS179,Tableau — Advanced,"Leadership, Coaching, Python",Advanced,In-Person,40
+CRS180,Risk Management — Fundamentals,"Agile, Project Management, Excel",Intermediate,In-Person,4
+CRS181,Risk Management — Advanced,"Project Management, Data Analysis, Employment Law",Beginner,In-Person,4
+CRS182,SQL — Essentials,Leadership,Advanced,Webinar,8
+CRS183,Excel — Masterclass,Tableau,Advanced,In-Person,4
+CRS184,Project Management — Masterclass,"Recruitment, Power BI, SQL",Intermediate,Blended,8
+CRS185,Budgeting — Fundamentals,"Risk Management, Agile",Beginner,In-Person,16
+CRS186,Change Management — Advanced,Employment Law,Intermediate,Blended,24
+CRS187,Agile — Fundamentals,Risk Management,Advanced,Webinar,2
+CRS188,Project Management — Advanced,"Excel, Project Management",Beginner,Blended,4
+CRS189,Risk Management — Essentials,"Leadership, SQL, Agile",Advanced,Blended,4
+CRS190,Tableau — Advanced,Communication,Beginner,Online,4
+CRS191,Recruitment — Essentials,"Python, SQL, Project Management",Beginner,Online,8
+CRS192,Tableau — Essentials,"Risk Management, Machine Learning, Tableau",Intermediate,In-Person,40
+CRS193,Recruitment — Masterclass,Power BI,Advanced,Webinar,2
+CRS194,Python — Advanced,Stakeholder Management,Intermediate,In-Person,16
+CRS195,Excel — Masterclass,Risk Management,Beginner,Blended,4
+CRS196,SQL — Fundamentals,Communication,Advanced,In-Person,40
+CRS197,Recruitment — Fundamentals,Change Management,Beginner,Webinar,8
+CRS198,Machine Learning — Advanced,SQL,Beginner,Webinar,16
+CRS199,Excel — Advanced,"Agile, Excel, Leadership",Beginner,Webinar,2
+CRS200,Communication — Advanced,SQL,Beginner,Online,40
+CRS201,Risk Management — Essentials,"Communication, Python",Beginner,Online,2
+CRS202,Leadership — Essentials,"Leadership, Communication",Beginner,Online,2
+CRS203,Python — Essentials,Employment Law,Advanced,Webinar,4
+CRS204,SQL — Advanced,Change Management,Advanced,In-Person,16
+CRS205,Coaching — Masterclass,Tableau,Beginner,In-Person,16
+CRS206,Change Management — Fundamentals,Change Management,Beginner,Online,2
+CRS207,Change Management — Fundamentals,"Coaching, Machine Learning, Communication",Intermediate,Online,24
+CRS208,Employment Law — Advanced,Change Management,Intermediate,In-Person,2
+CRS209,SQL — Masterclass,"Coaching, Excel",Advanced,Online,4
+CRS210,Recruitment — Advanced,"Agile, Data Analysis, Leadership",Beginner,Webinar,2
+CRS211,Communication — Masterclass,Budgeting,Intermediate,Blended,24
+CRS212,Recruitment — Essentials,"Communication, SQL",Beginner,Blended,2
+CRS213,Communication — Fundamentals,Agile,Beginner,Webinar,2
+CRS214,Recruitment — Advanced,"Power BI, Agile",Intermediate,Online,4
+CRS215,Python — Essentials,"Excel, Budgeting, Machine Learning",Advanced,Online,16
+CRS216,Power BI — Advanced,Change Management,Advanced,Online,8
+CRS217,Employment Law — Masterclass,Data Analysis,Beginner,Blended,2
+CRS218,Power BI — Fundamentals,Data Analysis,Advanced,Blended,16
+CRS219,Agile — Essentials,"Budgeting, Change Management",Advanced,Online,8
+CRS220,Risk Management — Masterclass,"Change Management, Budgeting",Beginner,In-Person,8
+CRS221,Agile — Fundamentals,Stakeholder Management,Intermediate,Webinar,2
+CRS222,Leadership — Fundamentals,"Python, Leadership, Machine Learning",Beginner,In-Person,2
+CRS223,Budgeting — Advanced,Risk Management,Intermediate,Blended,2
+CRS224,Agile — Advanced,"Machine Learning, Python",Advanced,Online,24
+CRS225,Leadership — Masterclass,"Leadership, Communication",Advanced,Online,40
+CRS226,Leadership — Masterclass,"Python, Risk Management, Excel",Beginner,Online,16
+CRS227,Risk Management — Fundamentals,Python,Intermediate,In-Person,8
+CRS228,Excel — Fundamentals,"Recruitment, Machine Learning",Intermediate,Webinar,8
+CRS229,SQL — Essentials,Leadership,Advanced,In-Person,2
+CRS230,Data Analysis — Essentials,Recruitment,Advanced,Blended,16
+CRS231,Budgeting — Essentials,"Stakeholder Management, Agile, Data Analysis",Beginner,Online,24
+CRS232,Data Analysis — Masterclass,SQL,Advanced,Webinar,4
+CRS233,Risk Management — Masterclass,"Coaching, Budgeting",Beginner,Online,8
+CRS234,Excel — Advanced,Agile,Beginner,Online,2
+CRS235,Stakeholder Management — Essentials,"Budgeting, Leadership",Intermediate,Blended,40
+CRS236,Data Analysis — Fundamentals,Python,Intermediate,Webinar,40
+CRS237,Risk Management — Fundamentals,"Python, Data Analysis",Advanced,Blended,24
+CRS238,Power BI — Fundamentals,"Stakeholder Management, Data Analysis, Employment Law",Beginner,Online,8
+CRS239,Project Management — Fundamentals,"Machine Learning, Python",Advanced,Blended,40
+CRS240,Agile — Essentials,"Machine Learning, Agile, Power BI",Advanced,Online,4
+CRS241,Risk Management — Essentials,"Leadership, Budgeting, Coaching",Advanced,Blended,2
+CRS242,Budgeting — Essentials,Communication,Beginner,Webinar,8
+CRS243,Python — Essentials,"Stakeholder Management, Power BI",Beginner,In-Person,8
+CRS244,Budgeting — Advanced,Machine Learning,Advanced,Blended,24
+CRS245,Leadership — Essentials,Excel,Advanced,Blended,4
+CRS246,Budgeting — Advanced,SQL,Intermediate,Online,24
+CRS247,Risk Management — Advanced,Excel,Intermediate,Online,4
+CRS248,Data Analysis — Masterclass,Tableau,Beginner,In-Person,8
+CRS249,Machine Learning — Essentials,Leadership,Beginner,Webinar,2
+CRS250,Tableau — Masterclass,"Machine Learning, Data Analysis, Excel",Advanced,Webinar,8
+CRS251,Change Management — Advanced,Leadership,Intermediate,Blended,24
+CRS252,Machine Learning — Advanced,"Risk Management, Machine Learning, Recruitment",Intermediate,Online,24
+CRS253,Project Management — Fundamentals,Stakeholder Management,Advanced,Online,16
+CRS254,Agile — Masterclass,"Excel, Project Management",Beginner,Webinar,24
+CRS255,Excel — Masterclass,"Coaching, Excel, Machine Learning",Beginner,Webinar,40
+CRS256,Stakeholder Management — Advanced,"Budgeting, Machine Learning, Communication",Intermediate,Webinar,24
+CRS257,Agile — Fundamentals,"Python, Recruitment",Beginner,Online,8
+CRS258,Excel — Essentials,Recruitment,Intermediate,Online,16
+CRS259,Tableau — Advanced,Agile,Intermediate,In-Person,8
+CRS260,Coaching — Masterclass,Risk Management,Advanced,Webinar,4
+CRS261,Change Management — Fundamentals,"Budgeting, Change Management, Coaching",Intermediate,In-Person,40
+CRS262,Stakeholder Management — Essentials,Stakeholder Management,Intermediate,Blended,4
+CRS263,Excel — Essentials,Communication,Advanced,Blended,2
+CRS264,Coaching — Advanced,Recruitment,Advanced,In-Person,40
+CRS265,Budgeting — Masterclass,"Tableau, Communication, Data Analysis",Advanced,In-Person,8
+CRS266,Tableau — Essentials,"Machine Learning, Power BI, Python",Intermediate,In-Person,8
+CRS267,Coaching — Essentials,Machine Learning,Intermediate,Online,16
+CRS268,Data Analysis — Fundamentals,Change Management,Beginner,In-Person,2
+CRS269,Power BI — Masterclass,"Project Management, SQL, Budgeting",Beginner,In-Person,4
+CRS270,Agile — Essentials,Employment Law,Beginner,In-Person,2
+CRS271,Stakeholder Management — Masterclass,"Machine Learning, Leadership, Coaching",Intermediate,Online,4
+CRS272,Recruitment — Masterclass,"Agile, Communication",Intermediate,Online,24
+CRS273,Leadership — Essentials,"Python, SQL",Advanced,Blended,8
+CRS274,Data Analysis — Essentials,"Excel, Agile",Advanced,Webinar,40
+CRS275,Excel — Advanced,"Stakeholder Management, Python, Data Analysis",Intermediate,Webinar,24
+CRS276,Communication — Fundamentals,"Excel, Risk Management",Intermediate,Webinar,24
+CRS277,Leadership — Advanced,"Project Management, Coaching",Advanced,Webinar,8
+CRS278,Tableau — Essentials,"Tableau, Power BI, Coaching",Advanced,Webinar,8
+CRS279,Machine Learning — Essentials,"Change Management, Excel, Employment Law",Intermediate,Blended,8
+CRS280,Python — Fundamentals,Communication,Advanced,In-Person,2
+CRS281,Agile — Masterclass,Coaching,Advanced,Online,8
+CRS282,Leadership — Fundamentals,"Excel, Budgeting",Advanced,Online,4
+CRS283,Tableau — Essentials,Budgeting,Intermediate,In-Person,16
+CRS284,Communication — Fundamentals,"Stakeholder Management, Employment Law, Recruitment",Advanced,Online,16
+CRS285,Agile — Fundamentals,Data Analysis,Advanced,Blended,4
+CRS286,Change Management — Masterclass,Python,Intermediate,Webinar,16
+CRS287,Stakeholder Management — Essentials,"Agile, Budgeting",Beginner,Blended,16
+CRS288,Stakeholder Management — Advanced,Change Management,Intermediate,Webinar,8
+CRS289,Agile — Essentials,"Tableau, Data Analysis",Advanced,Webinar,8
+CRS290,Employment Law — Advanced,Machine Learning,Advanced,Online,16
+CRS291,Communication — Advanced,"Stakeholder Management, Coaching",Intermediate,In-Person,40
+CRS292,Project Management — Essentials,"Change Management, Python",Beginner,Webinar,40
+CRS293,Employment Law — Masterclass,Python,Beginner,Webinar,4
+CRS294,Project Management — Fundamentals,Communication,Intermediate,In-Person,16
+CRS295,Budgeting — Essentials,"Agile, Change Management, Coaching",Beginner,Blended,24
+CRS296,Excel — Essentials,Leadership,Beginner,In-Person,8
+CRS297,Leadership — Fundamentals,"Machine Learning, Stakeholder Management",Advanced,Webinar,2
+CRS298,Data Analysis — Fundamentals,Agile,Advanced,Webinar,16
+CRS299,Agile — Advanced,Excel,Beginner,Blended,16
+CRS300,Data Analysis — Masterclass,"Communication, Budgeting",Intermediate,In-Person,40
+CRS301,Budgeting — Fundamentals,Leadership,Beginner,Online,4
+CRS302,Machine Learning — Masterclass,Agile,Intermediate,In-Person,16
+CRS303,Recruitment — Essentials,"Python, Risk Management, Recruitment",Advanced,In-Person,8
+CRS304,Stakeholder Management — Advanced,"Communication, Leadership",Advanced,In-Person,24
+CRS305,Employment Law — Masterclass,"Stakeholder Management, Python",Beginner,Webinar,8
+CRS306,Change Management — Masterclass,"Risk Management, Employment Law",Advanced,In-Person,4
+CRS307,Excel — Fundamentals,SQL,Beginner,Webinar,8
+CRS308,Tableau — Essentials,"Excel, Risk Management, Machine Learning",Intermediate,In-Person,4
+CRS309,Change Management — Advanced,"Project Management, Data Analysis",Beginner,Webinar,40
+CRS310,Project Management — Fundamentals,"Recruitment, Data Analysis",Advanced,Online,2
+CRS311,Coaching — Advanced,Stakeholder Management,Intermediate,In-Person,2
+CRS312,Coaching — Advanced,"Tableau, Machine Learning",Beginner,Blended,24
+CRS313,Power BI — Masterclass,Change Management,Beginner,Online,40
+CRS314,Leadership — Fundamentals,"Coaching, Risk Management, Agile",Advanced,Blended,24
+CRS315,Excel — Essentials,"Project Management, Stakeholder Management",Intermediate,Blended,40
+CRS316,Recruitment — Masterclass,"Budgeting, Python",Advanced,In-Person,24
+CRS317,Recruitment — Fundamentals,"SQL, Risk Management",Advanced,Online,2
+CRS318,Employment Law — Advanced,"Leadership, Communication, Risk Management",Advanced,Blended,24
+CRS319,Coaching — Essentials,"Machine Learning, Tableau, Communication",Advanced,Online,8
+CRS320,Employment Law — Essentials,"Communication, Agile, Leadership",Intermediate,Webinar,40
+CRS321,Communication — Masterclass,"Power BI, Python",Beginner,Webinar,40
+CRS322,Stakeholder Management — Advanced,"Communication, SQL",Advanced,In-Person,24
+CRS323,Risk Management — Advanced,"Power BI, Tableau, Leadership",Beginner,Online,40
+CRS324,Tableau — Essentials,Coaching,Beginner,In-Person,4
+CRS325,Machine Learning — Fundamentals,"Tableau, SQL, Project Management",Beginner,Online,2
+CRS326,Leadership — Fundamentals,Power BI,Beginner,Online,2
+CRS327,Excel — Essentials,"Budgeting, Coaching",Beginner,Online,2
+CRS328,Machine Learning — Essentials,"Coaching, Leadership, Data Analysis",Advanced,Online,8
+CRS329,SQL — Masterclass,"Excel, Change Management",Beginner,In-Person,24
+CRS330,Change Management — Masterclass,"Power BI, Excel, Python",Intermediate,Blended,16
+CRS331,Tableau — Advanced,Employment Law,Intermediate,Webinar,24
+CRS332,Employment Law — Fundamentals,Data Analysis,Beginner,Online,16
+CRS333,Coaching — Advanced,Recruitment,Intermediate,Blended,40
+CRS334,Coaching — Essentials,Employment Law,Beginner,Online,16
+CRS335,Budgeting — Essentials,"Stakeholder Management, Excel",Beginner,Online,40
+CRS336,Coaching — Masterclass,"Excel, Tableau",Advanced,In-Person,8
+CRS337,Data Analysis — Essentials,"Employment Law, Leadership, Coaching",Advanced,Blended,24
+CRS338,Agile — Fundamentals,"Data Analysis, Recruitment, SQL",Intermediate,Webinar,24
+CRS339,SQL — Masterclass,"Communication, Coaching, Machine Learning",Beginner,Webinar,24
+CRS340,Risk Management — Fundamentals,"Power BI, Budgeting, Leadership",Intermediate,Webinar,24
+CRS341,Excel — Masterclass,Recruitment,Advanced,Webinar,4
+CRS342,Recruitment — Essentials,Risk Management,Intermediate,Online,40
+CRS343,Power BI — Advanced,Excel,Beginner,Webinar,40
+CRS344,Recruitment — Essentials,"Machine Learning, Project Management, Coaching",Beginner,Blended,2
+CRS345,Tableau — Fundamentals,"Recruitment, Communication, Excel",Intermediate,Blended,8
+CRS346,Machine Learning — Masterclass,Risk Management,Intermediate,Webinar,8
+CRS347,Excel — Advanced,"Change Management, Coaching",Advanced,In-Person,2
+CRS348,Leadership — Advanced,"Excel, Coaching",Beginner,Webinar,8
+CRS349,Project Management — Advanced,Agile,Intermediate,Online,16
+CRS350,Python — Masterclass,"Recruitment, Stakeholder Management, Communication",Beginner,Blended,40
+CRS351,Change Management — Masterclass,"Python, Employment Law",Intermediate,In-Person,2
+CRS352,Communication — Advanced,"Agile, Data Analysis",Advanced,Online,40
+CRS353,Python — Fundamentals,"Coaching, Power BI, Employment Law",Intermediate,Blended,2
+CRS354,Risk Management — Advanced,Communication,Intermediate,Webinar,4
+CRS355,Machine Learning — Advanced,"Employment Law, Stakeholder Management, Data Analysis",Beginner,Online,16
+CRS356,Machine Learning — Advanced,Stakeholder Management,Advanced,Webinar,4
+CRS357,Excel — Advanced,"Excel, Coaching",Advanced,Blended,2
+CRS358,Agile — Fundamentals,Recruitment,Advanced,Online,2
+CRS359,Leadership — Masterclass,Project Management,Intermediate,Online,40
+CRS360,Excel — Masterclass,Budgeting,Beginner,Online,40
+CRS361,Recruitment — Advanced,"Python, Communication",Beginner,Online,2
+CRS362,Risk Management — Fundamentals,"Employment Law, Data Analysis",Beginner,Webinar,8
+CRS363,Excel — Masterclass,"Employment Law, Change Management, Power BI",Advanced,In-Person,24
+CRS364,Machine Learning — Essentials,"Tableau, SQL",Intermediate,Blended,4
+CRS365,Stakeholder Management — Masterclass,"Leadership, Budgeting",Advanced,Online,24
+CRS366,Machine Learning — Advanced,"SQL, Change Management",Advanced,Online,4
+CRS367,Excel — Fundamentals,"Employment Law, Python",Beginner,Blended,24
+CRS368,Coaching — Advanced,"Project Management, Excel, Risk Management",Intermediate,In-Person,40
+CRS369,Recruitment — Essentials,"Machine Learning, Power BI",Intermediate,In-Person,16
+CRS370,Machine Learning — Fundamentals,"Stakeholder Management, Budgeting",Beginner,Webinar,16
+CRS371,SQL — Advanced,"Stakeholder Management, Change Management, SQL",Advanced,Blended,4
+CRS372,Employment Law — Advanced,"Change Management, Coaching",Beginner,Online,8
+CRS373,Employment Law — Fundamentals,"Risk Management, Stakeholder Management",Advanced,Online,16
+CRS374,Recruitment — Essentials,"Employment Law, Recruitment, Excel",Intermediate,Webinar,4
+CRS375,SQL — Advanced,"Data Analysis, Python, Employment Law",Intermediate,Online,2
+CRS376,Agile — Masterclass,"Data Analysis, Leadership, Power BI",Beginner,Online,2
+CRS377,Risk Management — Essentials,Data Analysis,Beginner,Blended,8
+CRS378,Risk Management — Essentials,Project Management,Beginner,Online,16
+CRS379,Recruitment — Advanced,"Stakeholder Management, Excel",Advanced,In-Person,2
+CRS380,Excel — Advanced,Risk Management,Intermediate,Blended,2
+CRS381,Data Analysis — Advanced,"Python, Excel",Intermediate,Online,8
+CRS382,SQL — Advanced,"Stakeholder Management, Risk Management",Advanced,Blended,2
+CRS383,Risk Management — Masterclass,Agile,Beginner,Webinar,40
+CRS384,SQL — Advanced,"Tableau, Python",Intermediate,Blended,40
+CRS385,Data Analysis — Advanced,"Excel, Python, Data Analysis",Intermediate,Blended,40
+CRS386,SQL — Masterclass,"Data Analysis, SQL, Leadership",Beginner,Blended,8
+CRS387,Communication — Fundamentals,Budgeting,Beginner,Blended,2
+CRS388,Excel — Masterclass,"Leadership, Power BI, Employment Law",Advanced,In-Person,24
+CRS389,Recruitment — Masterclass,Recruitment,Advanced,Blended,4
+CRS390,Python — Masterclass,"Excel, Python",Beginner,Webinar,16
+CRS391,Data Analysis — Fundamentals,"Budgeting, Python",Beginner,Webinar,40
+CRS392,Risk Management — Essentials,"Python, Power BI",Intermediate,Blended,40
+CRS393,Communication — Advanced,"SQL, Change Management, Machine Learning",Advanced,Blended,4
+CRS394,Data Analysis — Fundamentals,"Agile, Risk Management",Intermediate,In-Person,8
+CRS395,Employment Law — Fundamentals,Project Management,Advanced,Blended,2
+CRS396,Excel — Essentials,Coaching,Intermediate,Blended,4
+CRS397,Coaching — Advanced,"Leadership, Risk Management",Advanced,Blended,4
+CRS398,Python — Advanced,"Communication, Power BI, Machine Learning",Intermediate,Blended,2
+CRS399,Excel — Fundamentals,"Python, Tableau, Budgeting",Advanced,Online,8
+CRS400,Power BI — Fundamentals,"Tableau, Budgeting, Stakeholder Management",Beginner,Online,4
+CRS401,Leadership — Fundamentals,"Coaching, Risk Management",Beginner,In-Person,24
+CRS402,Data Analysis — Masterclass,"Employment Law, Risk Management, Tableau",Advanced,Webinar,8
+CRS403,Project Management — Fundamentals,Budgeting,Intermediate,In-Person,16
+CRS404,Python — Advanced,Budgeting,Advanced,In-Person,2
+CRS405,Communication — Essentials,"Recruitment, Machine Learning",Beginner,Online,8
+CRS406,Risk Management — Essentials,Communication,Beginner,Webinar,2
+CRS407,Excel — Masterclass,Power BI,Advanced,Online,4
+CRS408,SQL — Essentials,"Project Management, Leadership, Tableau",Beginner,Blended,24
+CRS409,Leadership — Essentials,"Data Analysis, Recruitment, Leadership",Intermediate,Online,2
+CRS410,Machine Learning — Essentials,Tableau,Intermediate,Blended,24
+CRS411,Tableau — Fundamentals,"Employment Law, Risk Management, Agile",Beginner,Online,16
+CRS412,Tableau — Fundamentals,"Python, Employment Law, Power BI",Intermediate,In-Person,2
+CRS413,Tableau — Essentials,"Communication, Machine Learning, Agile",Beginner,Blended,8
+CRS414,Change Management — Fundamentals,"Leadership, Machine Learning, Communication",Beginner,Webinar,4
+CRS415,Data Analysis — Fundamentals,Tableau,Beginner,Blended,24
+CRS416,Communication — Advanced,Communication,Beginner,Blended,2
+CRS417,Stakeholder Management — Masterclass,"Stakeholder Management, SQL",Advanced,In-Person,40
+CRS418,Machine Learning — Fundamentals,Budgeting,Intermediate,In-Person,40
+CRS419,Data Analysis — Advanced,"Data Analysis, Communication, Python",Advanced,In-Person,2
+CRS420,Stakeholder Management — Advanced,Communication,Beginner,Webinar,16
+CRS421,Recruitment — Advanced,"Leadership, Power BI, Recruitment",Advanced,In-Person,2
+CRS422,Communication — Fundamentals,"Employment Law, Python",Intermediate,Blended,16
+CRS423,SQL — Fundamentals,"Python, Recruitment, Power BI",Intermediate,Webinar,16
+CRS424,Recruitment — Essentials,"Leadership, Power BI, Communication",Beginner,Online,40
+CRS425,Project Management — Fundamentals,"Excel, Agile",Intermediate,Webinar,24
+CRS426,Python — Advanced,"Machine Learning, SQL, Leadership",Beginner,Blended,4
+CRS427,Tableau — Masterclass,Coaching,Intermediate,In-Person,4
+CRS428,Excel — Advanced,Budgeting,Intermediate,Online,24
+CRS429,Python — Masterclass,"Tableau, Recruitment",Intermediate,Webinar,16
+CRS430,Python — Essentials,Coaching,Beginner,Online,24
+CRS431,Machine Learning — Essentials,"Recruitment, Python",Intermediate,Blended,8
+CRS432,Change Management — Fundamentals,"Budgeting, Coaching",Beginner,Blended,24
+CRS433,SQL — Advanced,"Budgeting, Recruitment, Data Analysis",Intermediate,Webinar,4
+CRS434,Risk Management — Advanced,Project Management,Intermediate,In-Person,16
+CRS435,Leadership — Fundamentals,"Communication, Stakeholder Management",Beginner,Webinar,40
+CRS436,Communication — Masterclass,"Tableau, Employment Law, Stakeholder Management",Advanced,In-Person,2
+CRS437,Machine Learning — Fundamentals,"Agile, Leadership, Budgeting",Beginner,In-Person,40
+CRS438,Change Management — Fundamentals,"Coaching, Stakeholder Management, Power BI",Beginner,Blended,4
+CRS439,Communication — Masterclass,"Project Management, Recruitment",Advanced,Online,8
+CRS440,Tableau — Advanced,Power BI,Intermediate,In-Person,2
+CRS441,Power BI — Fundamentals,Recruitment,Advanced,Webinar,16
+CRS442,Data Analysis — Masterclass,"Stakeholder Management, Recruitment, Risk Management",Advanced,Webinar,40
+CRS443,Stakeholder Management — Essentials,"Risk Management, Coaching",Advanced,Blended,40
+CRS444,Employment Law — Advanced,"Power BI, Budgeting",Intermediate,Webinar,8
+CRS445,Coaching — Essentials,"Machine Learning, Coaching, Excel",Intermediate,In-Person,8
+CRS446,Communication — Fundamentals,Employment Law,Intermediate,Blended,2
+CRS447,Tableau — Fundamentals,"Employment Law, Change Management, Excel",Intermediate,In-Person,16
+CRS448,Communication — Masterclass,"Coaching, Tableau",Intermediate,Webinar,4
+CRS449,Leadership — Advanced,Risk Management,Intermediate,In-Person,4
+CRS450,Recruitment — Fundamentals,"Project Management, Coaching",Beginner,Blended,2
+CRS451,Stakeholder Management — Advanced,Project Management,Intermediate,Online,8
+CRS452,Employment Law — Masterclass,Python,Intermediate,Webinar,4
+CRS453,Risk Management — Advanced,Data Analysis,Beginner,Online,16
+CRS454,Machine Learning — Masterclass,Communication,Beginner,Online,8
+CRS455,Tableau — Essentials,Tableau,Intermediate,Blended,4
+CRS456,SQL — Masterclass,"Stakeholder Management, Project Management, Budgeting",Advanced,Webinar,8
+CRS457,Stakeholder Management — Essentials,Leadership,Intermediate,In-Person,40
+CRS458,Project Management — Fundamentals,"Machine Learning, Budgeting, Employment Law",Advanced,In-Person,4
+CRS459,Risk Management — Essentials,"Communication, Budgeting",Intermediate,Blended,16
+CRS460,SQL — Advanced,"Data Analysis, Leadership",Intermediate,Online,40
+CRS461,Python — Masterclass,Risk Management,Advanced,Online,2
+CRS462,Recruitment — Masterclass,"Machine Learning, Python, Tableau",Beginner,In-Person,16
+CRS463,Project Management — Advanced,Change Management,Beginner,Blended,16
+CRS464,SQL — Fundamentals,"Data Analysis, Change Management",Beginner,Online,4
+CRS465,Coaching — Fundamentals,"Project Management, Python",Beginner,Online,4
+CRS466,Coaching — Masterclass,"Communication, Machine Learning",Intermediate,In-Person,40
+CRS467,Data Analysis — Advanced,"Agile, Power BI, Recruitment",Beginner,Blended,24
+CRS468,Recruitment — Advanced,Communication,Beginner,In-Person,40
+CRS469,Risk Management — Advanced,"SQL, Machine Learning, Project Management",Beginner,Blended,8
+CRS470,Agile — Advanced,"Power BI, Communication",Beginner,Webinar,16
+CRS471,Excel — Masterclass,Agile,Intermediate,Online,2
+CRS472,Tableau — Essentials,Machine Learning,Beginner,Webinar,24
+CRS473,Agile — Fundamentals,"Project Management, SQL, Coaching",Beginner,Online,2
+CRS474,Agile — Fundamentals,Coaching,Beginner,Blended,40
+CRS475,Tableau — Advanced,"Tableau, Project Management, Excel",Intermediate,Webinar,40
+CRS476,Stakeholder Management — Masterclass,"Agile, SQL",Intermediate,Webinar,8
+CRS477,Communication — Advanced,SQL,Advanced,In-Person,4
+CRS478,Project Management — Fundamentals,"Leadership, Change Management, Stakeholder Management",Beginner,Blended,24
+CRS479,Communication — Advanced,Recruitment,Intermediate,Online,16
+CRS480,Project Management — Masterclass,Recruitment,Advanced,Online,16
+CRS481,Power BI — Essentials,Excel,Advanced,Online,24
+CRS482,Python — Masterclass,"Agile, Stakeholder Management",Beginner,In-Person,2
+CRS483,Agile — Masterclass,Tableau,Intermediate,Online,40
+CRS484,Tableau — Masterclass,Data Analysis,Advanced,Online,4
+CRS485,Coaching — Advanced,"Python, Machine Learning",Intermediate,Webinar,4
+CRS486,Agile — Masterclass,"Excel, Employment Law",Advanced,Blended,16
+CRS487,Python — Masterclass,"Stakeholder Management, Excel",Beginner,Online,8
+CRS488,Excel — Essentials,"Stakeholder Management, Excel, Machine Learning",Advanced,Blended,8
+CRS489,Budgeting — Masterclass,Excel,Advanced,Webinar,24
+CRS490,SQL — Masterclass,"Tableau, Agile",Intermediate,In-Person,2
+CRS491,Agile — Fundamentals,Data Analysis,Intermediate,In-Person,16
+CRS492,Project Management — Fundamentals,Agile,Beginner,In-Person,40
+CRS493,Excel — Advanced,"Excel, SQL",Advanced,In-Person,40
+CRS494,Budgeting — Essentials,"Tableau, Risk Management",Intermediate,Online,24
+CRS495,Machine Learning — Essentials,Excel,Beginner,Webinar,16
+CRS496,Agile — Advanced,Project Management,Beginner,Webinar,40
+CRS497,Coaching — Fundamentals,"Employment Law, Machine Learning",Advanced,Webinar,40
+CRS498,Tableau — Essentials,"Power BI, SQL",Advanced,Blended,4
+CRS499,Leadership — Fundamentals,"Coaching, Employment Law, Change Management",Beginner,Online,24
+CRS500,Employment Law — Advanced,Leadership,Beginner,Online,4
