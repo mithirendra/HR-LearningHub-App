@@ -1,0 +1,51 @@
+course_id,title,skills_covered,level,format,duration_hours
+CRS001,Leadership — Fundamentals,"Change Management, Tableau",Intermediate,Webinar,4
+CRS002,Risk Management — Masterclass,"Python, Recruitment",Advanced,Webinar,8
+CRS003,Python — Fundamentals,"Coaching, Recruitment, Project Management",Beginner,In-Person,24
+CRS004,Risk Management — Fundamentals,Excel,Beginner,Blended,8
+CRS005,Coaching — Fundamentals,"Communication, Risk Management, Recruitment",Intermediate,Webinar,2
+CRS006,Communication — Masterclass,"Employment Law, Stakeholder Management",Beginner,Online,2
+CRS007,Project Management — Essentials,"Coaching, Leadership, Stakeholder Management",Intermediate,Webinar,4
+CRS008,Change Management — Essentials,Leadership,Beginner,Online,16
+CRS009,Project Management — Essentials,Employment Law,Advanced,Blended,40
+CRS010,Excel — Masterclass,"Project Management, Tableau",Intermediate,In-Person,2
+CRS011,SQL — Advanced,Agile,Beginner,Blended,24
+CRS012,Recruitment — Essentials,"Communication, Excel, Machine Learning",Intermediate,Webinar,40
+CRS013,Agile — Essentials,"Excel, Communication",Intermediate,Online,16
+CRS014,Risk Management — Masterclass,Tableau,Advanced,In-Person,4
+CRS015,Budgeting — Fundamentals,Machine Learning,Beginner,Blended,4
+CRS016,Project Management — Masterclass,"Power BI, Recruitment, Change Management",Beginner,Blended,4
+CRS017,Tableau — Masterclass,Change Management,Advanced,Online,24
+CRS018,Project Management — Advanced,Employment Law,Advanced,Online,2
+CRS019,Excel — Fundamentals,"Stakeholder Management, SQL, Budgeting",Advanced,Online,16
+CRS020,Tableau — Masterclass,"Change Management, Agile, Power BI",Advanced,Webinar,8
+CRS021,Risk Management — Fundamentals,"Python, Project Management, Risk Management",Intermediate,Webinar,16
+CRS022,SQL — Masterclass,"Communication, Employment Law, Machine Learning",Advanced,Blended,16
+CRS023,Communication — Masterclass,"Tableau, Leadership, Employment Law",Beginner,Webinar,2
+CRS024,Stakeholder Management — Essentials,Communication,Beginner,Online,8
+CRS025,Coaching — Essentials,Project Management,Intermediate,Blended,4
+CRS026,Project Management — Essentials,"Risk Management, Agile, Change Management",Intermediate,Online,2
+CRS027,Coaching — Essentials,SQL,Advanced,Blended,2
+CRS028,Python — Masterclass,"Agile, Change Management",Advanced,Online,2
+CRS029,Budgeting — Advanced,"Recruitment, Coaching",Intermediate,Online,16
+CRS030,Python — Advanced,"Tableau, Change Management",Beginner,Webinar,24
+CRS031,Risk Management — Masterclass,"Leadership, Communication, Tableau",Intermediate,Blended,8
+CRS032,Tableau — Masterclass,SQL,Advanced,Webinar,24
+CRS033,Python — Fundamentals,Communication,Advanced,Blended,16
+CRS034,Machine Learning — Essentials,Machine Learning,Beginner,Blended,24
+CRS035,Employment Law — Advanced,"Change Management, Employment Law",Advanced,Webinar,40
+CRS036,Change Management — Essentials,Recruitment,Intermediate,Online,16
+CRS037,Change Management — Fundamentals,"Agile, Stakeholder Management, Power BI",Advanced,Online,24
+CRS038,Agile — Advanced,"Coaching, Communication, Power BI",Beginner,Online,4
+CRS039,Data Analysis — Essentials,"Budgeting, Communication",Intermediate,In-Person,16
+CRS040,Machine Learning — Essentials,"Python, Communication, SQL",Advanced,Blended,40
+CRS041,Agile — Essentials,"Project Management, Risk Management",Advanced,Blended,24
+CRS042,Recruitment — Masterclass,"Agile, SQL, Power BI",Intermediate,Blended,4
+CRS043,Change Management — Masterclass,"SQL, Agile, Employment Law",Intermediate,Blended,24
+CRS044,Stakeholder Management — Masterclass,Tableau,Intermediate,Webinar,8
+CRS045,Communication — Masterclass,Change Management,Advanced,Online,8
+CRS046,Risk Management — Masterclass,"Agile, SQL, Machine Learning",Advanced,Blended,24
+CRS047,Stakeholder Management — Advanced,Power BI,Beginner,Online,40
+CRS048,Machine Learning — Advanced,"Power BI, Python, Leadership",Intermediate,Blended,40
+CRS049,Agile — Fundamentals,"Communication, Data Analysis, Project Management",Intermediate,Webinar,16
+CRS050,SQL — Masterclass,"Change Management, Python",Beginner,In-Person,24

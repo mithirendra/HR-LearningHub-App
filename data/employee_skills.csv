@@ -1,0 +1,504 @@
+employee_id,skill_name,skill_level,date_uploaded
+EMP0001,Data Analysis,Beginner,2026-03-26
+EMP0001,Stakeholder Management,Advanced,2026-04-14
+EMP0001,Power BI,Advanced,2025-08-30
+EMP0002,Budgeting,Beginner,2026-02-14
+EMP0002,Python,Beginner,2025-09-20
+EMP0002,Data Analysis,Advanced,2026-05-23
+EMP0003,SQL,Beginner,2025-06-13
+EMP0003,Budgeting,Intermediate,2025-12-13
+EMP0003,Power BI,Intermediate,2026-03-18
+EMP0003,Agile,Beginner,2025-12-15
+EMP0003,Change Management,Beginner,2026-04-19
+EMP0003,Communication,Intermediate,2026-04-17
+EMP0003,Data Analysis,Intermediate,2025-12-11
+EMP0004,Stakeholder Management,Advanced,2026-01-06
+EMP0004,Python,Advanced,2025-07-24
+EMP0004,Risk Management,Intermediate,2025-08-14
+EMP0004,Tableau,Beginner,2025-06-10
+EMP0004,Machine Learning,Beginner,2026-05-13
+EMP0004,SQL,Advanced,2026-02-09
+EMP0004,Budgeting,Intermediate,2026-04-26
+EMP0005,Leadership,Advanced,2025-12-01
+EMP0005,Coaching,Beginner,2025-11-28
+EMP0005,Stakeholder Management,Intermediate,2026-02-18
+EMP0005,Power BI,Advanced,2026-01-20
+EMP0006,Project Management,Intermediate,2025-11-23
+EMP0006,Power BI,Intermediate,2025-07-13
+EMP0006,Tableau,Advanced,2025-08-24
+EMP0007,Employment Law,Beginner,2025-12-26
+EMP0007,Python,Intermediate,2026-01-19
+EMP0007,Power BI,Beginner,2026-02-17
+EMP0007,Budgeting,Advanced,2025-12-26
+EMP0008,Agile,Intermediate,2026-03-26
+EMP0008,Coaching,Beginner,2025-08-22
+EMP0008,Risk Management,Advanced,2026-01-22
+EMP0008,Excel,Advanced,2025-08-10
+EMP0009,Coaching,Beginner,2026-05-12
+EMP0009,Recruitment,Beginner,2026-03-19
+EMP0009,Power BI,Advanced,2026-03-16
+EMP0009,Excel,Advanced,2025-11-01
+EMP0009,Stakeholder Management,Advanced,2026-05-04
+EMP0009,Agile,Intermediate,2025-11-22
+EMP0010,Risk Management,Advanced,2026-04-08
+EMP0010,Machine Learning,Advanced,2025-09-04
+EMP0010,Stakeholder Management,Intermediate,2025-07-12
+EMP0010,Agile,Intermediate,2026-04-09
+EMP0010,Budgeting,Intermediate,2025-10-26
+EMP0010,Data Analysis,Beginner,2025-10-16
+EMP0010,Employment Law,Beginner,2026-01-22
+EMP0011,Project Management,Advanced,2025-07-29
+EMP0011,Machine Learning,Beginner,2026-03-19
+EMP0011,Leadership,Intermediate,2026-03-15
+EMP0011,Budgeting,Advanced,2025-09-07
+EMP0011,Employment Law,Beginner,2025-08-03
+EMP0011,Communication,Intermediate,2025-09-28
+EMP0011,Risk Management,Beginner,2026-04-09
+EMP0012,Change Management,Beginner,2026-04-23
+EMP0012,Power BI,Advanced,2025-09-30
+EMP0012,Python,Beginner,2025-09-06
+EMP0012,Leadership,Beginner,2026-04-01
+EMP0012,Tableau,Advanced,2025-10-05
+EMP0013,Project Management,Advanced,2026-02-23
+EMP0013,Stakeholder Management,Advanced,2025-12-28
+EMP0013,Budgeting,Intermediate,2025-06-27
+EMP0013,Leadership,Advanced,2025-11-26
+EMP0013,Machine Learning,Intermediate,2025-09-14
+EMP0013,Coaching,Intermediate,2026-04-05
+EMP0013,Recruitment,Beginner,2026-02-10
+EMP0014,Employment Law,Advanced,2026-02-13
+EMP0014,Data Analysis,Beginner,2026-04-30
+EMP0014,Power BI,Advanced,2025-07-17
+EMP0015,Power BI,Intermediate,2026-04-30
+EMP0015,Excel,Advanced,2026-02-04
+EMP0015,Python,Intermediate,2025-06-28
+EMP0016,SQL,Intermediate,2026-02-28
+EMP0016,Communication,Beginner,2026-04-17
+EMP0016,Agile,Advanced,2025-10-28
+EMP0016,Leadership,Intermediate,2025-11-01
+EMP0016,Coaching,Intermediate,2025-10-09
+EMP0016,Power BI,Advanced,2026-05-09
+EMP0017,Python,Beginner,2026-01-29
+EMP0017,Coaching,Beginner,2026-02-28
+EMP0017,Employment Law,Advanced,2025-10-19
+EMP0018,Budgeting,Beginner,2026-04-28
+EMP0018,Project Management,Intermediate,2025-08-28
+EMP0018,Stakeholder Management,Beginner,2026-05-11
+EMP0018,Power BI,Advanced,2025-09-02
+EMP0019,Excel,Intermediate,2025-09-30
+EMP0019,Power BI,Intermediate,2026-02-16
+EMP0019,Project Management,Intermediate,2026-05-06
+EMP0020,Coaching,Intermediate,2026-01-10
+EMP0020,Data Analysis,Intermediate,2025-06-14
+EMP0020,Tableau,Advanced,2025-08-25
+EMP0020,Communication,Advanced,2025-09-29
+EMP0021,SQL,Advanced,2025-09-01
+EMP0021,Change Management,Beginner,2025-12-27
+EMP0021,Tableau,Beginner,2026-05-11
+EMP0021,Data Analysis,Advanced,2025-10-04
+EMP0022,Machine Learning,Advanced,2026-05-02
+EMP0022,Project Management,Advanced,2026-02-05
+EMP0022,Python,Intermediate,2026-04-05
+EMP0022,Stakeholder Management,Advanced,2026-01-30
+EMP0022,Agile,Advanced,2025-08-05
+EMP0022,Excel,Beginner,2025-07-23
+EMP0022,Budgeting,Beginner,2025-11-03
+EMP0023,Machine Learning,Beginner,2026-01-21
+EMP0023,Employment Law,Intermediate,2026-03-30
+EMP0023,Stakeholder Management,Advanced,2025-07-10
+EMP0023,Leadership,Intermediate,2025-10-14
+EMP0023,Tableau,Intermediate,2026-04-29
+EMP0023,Recruitment,Beginner,2025-10-14
+EMP0023,Project Management,Advanced,2025-08-21
+EMP0024,Excel,Beginner,2025-12-09
+EMP0024,SQL,Beginner,2026-01-31
+EMP0024,Stakeholder Management,Intermediate,2026-01-11
+EMP0025,Risk Management,Advanced,2026-01-03
+EMP0025,Change Management,Advanced,2026-04-13
+EMP0025,Data Analysis,Beginner,2026-01-21
+EMP0025,Employment Law,Beginner,2026-04-12
+EMP0026,Communication,Beginner,2025-06-19
+EMP0026,Stakeholder Management,Advanced,2026-01-21
+EMP0026,Change Management,Advanced,2025-09-28
+EMP0026,Agile,Intermediate,2026-05-10
+EMP0026,Leadership,Beginner,2025-07-16
+EMP0026,Recruitment,Intermediate,2026-01-15
+EMP0026,Project Management,Beginner,2026-06-04
+EMP0027,Communication,Advanced,2025-06-09
+EMP0027,Stakeholder Management,Intermediate,2025-08-22
+EMP0027,Project Management,Beginner,2026-04-09
+EMP0027,Recruitment,Beginner,2025-06-17
+EMP0027,Power BI,Beginner,2025-08-30
+EMP0028,Recruitment,Beginner,2026-05-15
+EMP0028,Communication,Intermediate,2025-12-01
+EMP0028,Budgeting,Beginner,2025-12-04
+EMP0029,Power BI,Advanced,2025-11-09
+EMP0029,Leadership,Advanced,2026-03-18
+EMP0029,Recruitment,Beginner,2026-03-14
+EMP0029,Coaching,Beginner,2025-11-06
+EMP0030,Project Management,Advanced,2026-01-29
+EMP0030,Employment Law,Intermediate,2026-03-16
+EMP0030,Budgeting,Advanced,2026-04-11
+EMP0031,Python,Intermediate,2025-12-31
+EMP0031,Agile,Beginner,2026-02-11
+EMP0031,Power BI,Beginner,2025-07-03
+EMP0031,Leadership,Beginner,2025-11-13
+EMP0031,Budgeting,Intermediate,2026-01-14
+EMP0031,Machine Learning,Beginner,2026-01-14
+EMP0032,Machine Learning,Intermediate,2026-03-06
+EMP0032,Coaching,Advanced,2026-01-21
+EMP0032,Employment Law,Beginner,2026-04-11
+EMP0032,Data Analysis,Advanced,2025-10-26
+EMP0032,Python,Intermediate,2025-12-27
+EMP0033,Machine Learning,Intermediate,2026-05-14
+EMP0033,Leadership,Advanced,2025-10-25
+EMP0033,Coaching,Beginner,2025-09-12
+EMP0033,Risk Management,Advanced,2025-06-19
+EMP0033,Change Management,Advanced,2025-06-27
+EMP0033,Tableau,Beginner,2025-12-01
+EMP0034,Excel,Advanced,2026-01-03
+EMP0034,Employment Law,Advanced,2025-12-29
+EMP0034,Machine Learning,Advanced,2025-11-08
+EMP0034,Agile,Intermediate,2025-11-11
+EMP0034,Budgeting,Advanced,2026-01-05
+EMP0034,Python,Advanced,2026-04-01
+EMP0035,Budgeting,Advanced,2026-01-02
+EMP0035,Coaching,Intermediate,2025-08-29
+EMP0035,Project Management,Beginner,2026-01-01
+EMP0035,Change Management,Intermediate,2026-02-18
+EMP0036,Employment Law,Advanced,2025-10-06
+EMP0036,Risk Management,Advanced,2026-03-11
+EMP0036,Machine Learning,Advanced,2026-04-23
+EMP0036,Power BI,Intermediate,2025-09-15
+EMP0036,Tableau,Advanced,2025-07-16
+EMP0036,Leadership,Advanced,2025-12-16
+EMP0037,Power BI,Beginner,2026-03-22
+EMP0037,Change Management,Beginner,2026-05-13
+EMP0037,Tableau,Beginner,2025-10-05
+EMP0038,Excel,Advanced,2025-06-14
+EMP0038,Risk Management,Intermediate,2025-09-25
+EMP0038,Budgeting,Intermediate,2026-02-01
+EMP0038,Machine Learning,Beginner,2025-07-05
+EMP0038,Employment Law,Advanced,2026-06-03
+EMP0038,Change Management,Beginner,2025-10-31
+EMP0038,Leadership,Beginner,2026-03-07
+EMP0039,Risk Management,Beginner,2025-10-11
+EMP0039,Python,Advanced,2025-09-07
+EMP0039,Power BI,Advanced,2025-08-05
+EMP0039,Tableau,Intermediate,2025-10-22
+EMP0039,Budgeting,Advanced,2025-09-20
+EMP0039,Machine Learning,Intermediate,2025-08-29
+EMP0039,Agile,Intermediate,2026-03-16
+EMP0040,Risk Management,Advanced,2025-09-30
+EMP0040,Stakeholder Management,Advanced,2026-02-03
+EMP0040,Power BI,Intermediate,2025-10-23
+EMP0040,Budgeting,Beginner,2025-06-05
+EMP0040,Employment Law,Intermediate,2026-02-05
+EMP0040,Communication,Intermediate,2025-12-16
+EMP0041,Tableau,Intermediate,2025-06-15
+EMP0041,Excel,Beginner,2025-06-09
+EMP0041,Communication,Beginner,2026-05-04
+EMP0041,Machine Learning,Intermediate,2025-11-09
+EMP0041,Leadership,Intermediate,2025-09-01
+EMP0042,Budgeting,Advanced,2025-06-14
+EMP0042,Python,Beginner,2025-08-15
+EMP0042,SQL,Intermediate,2025-10-04
+EMP0042,Tableau,Beginner,2025-12-07
+EMP0042,Agile,Intermediate,2025-11-18
+EMP0042,Risk Management,Intermediate,2025-09-03
+EMP0043,Power BI,Intermediate,2025-12-15
+EMP0043,Agile,Advanced,2025-06-23
+EMP0043,Tableau,Intermediate,2026-03-13
+EMP0043,Communication,Intermediate,2026-04-01
+EMP0043,SQL,Advanced,2025-09-05
+EMP0043,Machine Learning,Beginner,2025-11-16
+EMP0043,Data Analysis,Advanced,2025-08-21
+EMP0044,Excel,Intermediate,2026-03-04
+EMP0044,Budgeting,Beginner,2026-01-23
+EMP0044,Communication,Intermediate,2025-12-20
+EMP0045,Risk Management,Intermediate,2026-01-14
+EMP0045,Employment Law,Intermediate,2026-01-27
+EMP0045,Machine Learning,Beginner,2025-10-08
+EMP0045,Coaching,Beginner,2025-09-02
+EMP0046,Recruitment,Advanced,2026-05-16
+EMP0046,Power BI,Beginner,2026-01-30
+EMP0046,Excel,Beginner,2026-05-26
+EMP0047,Communication,Beginner,2025-10-10
+EMP0047,Power BI,Advanced,2026-01-25
+EMP0047,Tableau,Intermediate,2026-03-12
+EMP0047,Machine Learning,Advanced,2025-07-30
+EMP0047,Employment Law,Advanced,2026-04-08
+EMP0047,Python,Beginner,2025-12-28
+EMP0047,Change Management,Beginner,2025-08-13
+EMP0048,Change Management,Advanced,2026-02-24
+EMP0048,Coaching,Beginner,2025-08-06
+EMP0048,Machine Learning,Advanced,2025-07-19
+EMP0049,Leadership,Advanced,2026-05-15
+EMP0049,Change Management,Intermediate,2025-09-06
+EMP0049,Tableau,Intermediate,2025-07-02
+EMP0049,Coaching,Intermediate,2026-05-01
+EMP0050,Employment Law,Intermediate,2025-07-15
+EMP0050,Data Analysis,Intermediate,2025-06-08
+EMP0050,Budgeting,Beginner,2025-10-26
+EMP0050,Agile,Beginner,2025-09-11
+EMP0050,Power BI,Advanced,2026-01-18
+EMP0050,Python,Advanced,2025-09-03
+EMP0050,SQL,Intermediate,2025-10-10
+EMP0051,Stakeholder Management,Intermediate,2026-02-01
+EMP0051,Employment Law,Intermediate,2025-08-18
+EMP0051,Power BI,Advanced,2025-06-28
+EMP0051,Budgeting,Intermediate,2025-12-15
+EMP0051,Python,Beginner,2025-09-25
+EMP0051,Communication,Intermediate,2026-03-04
+EMP0052,SQL,Advanced,2026-01-15
+EMP0052,Recruitment,Advanced,2026-05-31
+EMP0052,Stakeholder Management,Advanced,2026-02-28
+EMP0052,Project Management,Beginner,2026-02-02
+EMP0052,Communication,Advanced,2025-11-09
+EMP0052,Change Management,Intermediate,2025-08-25
+EMP0053,Agile,Beginner,2026-04-19
+EMP0053,Tableau,Intermediate,2026-02-12
+EMP0053,Risk Management,Intermediate,2025-06-16
+EMP0053,Coaching,Beginner,2025-12-31
+EMP0054,Recruitment,Intermediate,2025-06-11
+EMP0054,Agile,Intermediate,2026-01-18
+EMP0054,Tableau,Intermediate,2026-01-28
+EMP0054,SQL,Beginner,2026-04-05
+EMP0054,Machine Learning,Advanced,2026-02-27
+EMP0054,Stakeholder Management,Intermediate,2026-04-05
+EMP0054,Project Management,Advanced,2025-09-04
+EMP0055,SQL,Advanced,2025-08-08
+EMP0055,Tableau,Advanced,2025-08-04
+EMP0055,Agile,Intermediate,2026-04-15
+EMP0055,Communication,Beginner,2026-01-05
+EMP0056,Recruitment,Advanced,2025-09-05
+EMP0056,Project Management,Beginner,2026-01-16
+EMP0056,Change Management,Beginner,2026-05-09
+EMP0056,Data Analysis,Advanced,2026-01-07
+EMP0057,Agile,Intermediate,2025-10-08
+EMP0057,Leadership,Intermediate,2025-10-23
+EMP0057,Data Analysis,Intermediate,2026-03-03
+EMP0057,Change Management,Beginner,2026-01-27
+EMP0058,Leadership,Advanced,2025-06-19
+EMP0058,Excel,Beginner,2026-03-20
+EMP0058,Coaching,Beginner,2025-08-21
+EMP0058,Power BI,Intermediate,2026-04-23
+EMP0058,Python,Beginner,2026-04-06
+EMP0058,Change Management,Advanced,2025-11-04
+EMP0059,Power BI,Intermediate,2025-12-31
+EMP0059,Machine Learning,Advanced,2025-07-23
+EMP0059,Coaching,Beginner,2025-07-28
+EMP0059,Tableau,Advanced,2026-04-16
+EMP0059,Risk Management,Beginner,2025-07-20
+EMP0059,Communication,Beginner,2026-01-21
+EMP0059,Change Management,Advanced,2026-04-25
+EMP0060,Power BI,Beginner,2025-11-08
+EMP0060,Project Management,Intermediate,2025-06-18
+EMP0060,Excel,Advanced,2025-10-08
+EMP0060,Agile,Intermediate,2026-05-20
+EMP0061,Change Management,Advanced,2026-02-06
+EMP0061,Tableau,Intermediate,2025-07-20
+EMP0061,Risk Management,Advanced,2025-07-02
+EMP0061,Python,Beginner,2025-10-31
+EMP0062,Tableau,Intermediate,2026-03-25
+EMP0062,Power BI,Beginner,2026-05-06
+EMP0062,Communication,Beginner,2025-12-30
+EMP0063,Change Management,Intermediate,2026-01-17
+EMP0063,Risk Management,Advanced,2025-09-02
+EMP0063,Leadership,Intermediate,2025-10-24
+EMP0063,Power BI,Beginner,2025-08-03
+EMP0063,Recruitment,Beginner,2025-10-27
+EMP0063,Communication,Advanced,2025-12-22
+EMP0063,Budgeting,Advanced,2026-01-28
+EMP0064,Excel,Advanced,2026-01-19
+EMP0064,Power BI,Advanced,2026-05-16
+EMP0064,Data Analysis,Beginner,2025-10-08
+EMP0065,Risk Management,Beginner,2025-10-08
+EMP0065,Stakeholder Management,Intermediate,2025-11-08
+EMP0065,Project Management,Intermediate,2025-12-23
+EMP0065,Change Management,Advanced,2026-04-13
+EMP0065,SQL,Beginner,2025-12-19
+EMP0065,Employment Law,Intermediate,2025-06-15
+EMP0065,Power BI,Intermediate,2026-01-09
+EMP0066,Tableau,Intermediate,2026-04-07
+EMP0066,Python,Intermediate,2025-09-15
+EMP0066,Risk Management,Beginner,2025-07-04
+EMP0066,Machine Learning,Advanced,2025-10-12
+EMP0066,Project Management,Intermediate,2026-05-09
+EMP0066,Communication,Beginner,2025-09-13
+EMP0067,Agile,Advanced,2026-03-30
+EMP0067,Risk Management,Intermediate,2025-10-24
+EMP0067,Python,Advanced,2025-09-30
+EMP0067,Leadership,Beginner,2026-05-22
+EMP0067,Communication,Advanced,2025-07-29
+EMP0068,Project Management,Intermediate,2026-04-19
+EMP0068,Change Management,Beginner,2026-04-08
+EMP0068,Data Analysis,Intermediate,2026-04-06
+EMP0068,Stakeholder Management,Advanced,2026-03-19
+EMP0069,Change Management,Intermediate,2026-02-01
+EMP0069,Machine Learning,Intermediate,2025-08-27
+EMP0069,Stakeholder Management,Beginner,2025-11-21
+EMP0069,SQL,Beginner,2025-08-03
+EMP0069,Budgeting,Advanced,2026-03-28
+EMP0069,Power BI,Beginner,2026-01-15
+EMP0070,Employment Law,Advanced,2026-01-04
+EMP0070,Machine Learning,Advanced,2025-08-13
+EMP0070,Stakeholder Management,Advanced,2025-09-28
+EMP0070,Budgeting,Beginner,2025-10-20
+EMP0070,Data Analysis,Advanced,2025-10-01
+EMP0070,Communication,Intermediate,2025-12-17
+EMP0071,Tableau,Beginner,2025-08-17
+EMP0071,Coaching,Intermediate,2026-02-06
+EMP0071,Risk Management,Intermediate,2026-05-14
+EMP0071,Agile,Intermediate,2025-10-06
+EMP0071,Project Management,Advanced,2025-11-22
+EMP0071,Leadership,Intermediate,2025-07-01
+EMP0071,Recruitment,Advanced,2026-03-20
+EMP0072,Python,Beginner,2025-09-09
+EMP0072,Communication,Intermediate,2026-05-29
+EMP0072,Employment Law,Advanced,2026-03-24
+EMP0072,Budgeting,Intermediate,2025-07-05
+EMP0072,Tableau,Beginner,2026-04-28
+EMP0072,Power BI,Intermediate,2026-01-21
+EMP0073,Coaching,Advanced,2025-11-23
+EMP0073,Excel,Intermediate,2025-07-20
+EMP0073,Employment Law,Advanced,2025-09-29
+EMP0073,Budgeting,Advanced,2026-05-18
+EMP0073,Agile,Advanced,2026-05-01
+EMP0074,Change Management,Beginner,2025-07-16
+EMP0074,Power BI,Advanced,2026-04-15
+EMP0074,Excel,Intermediate,2026-03-12
+EMP0074,SQL,Advanced,2026-01-03
+EMP0075,Python,Intermediate,2025-12-04
+EMP0075,Employment Law,Intermediate,2025-10-28
+EMP0075,Tableau,Beginner,2026-01-31
+EMP0076,Budgeting,Advanced,2025-06-21
+EMP0076,Project Management,Beginner,2025-09-24
+EMP0076,Machine Learning,Advanced,2026-03-24
+EMP0076,Excel,Beginner,2025-10-12
+EMP0076,Python,Advanced,2026-01-26
+EMP0076,Change Management,Intermediate,2026-01-26
+EMP0076,SQL,Advanced,2026-06-01
+EMP0077,Change Management,Intermediate,2025-07-13
+EMP0077,Project Management,Intermediate,2025-06-17
+EMP0077,Excel,Intermediate,2025-10-15
+EMP0077,Power BI,Intermediate,2026-02-24
+EMP0077,Machine Learning,Intermediate,2025-10-01
+EMP0077,Tableau,Beginner,2026-02-04
+EMP0078,Recruitment,Intermediate,2026-01-16
+EMP0078,Change Management,Beginner,2025-08-20
+EMP0078,Machine Learning,Advanced,2026-05-11
+EMP0078,Data Analysis,Advanced,2025-09-24
+EMP0078,Budgeting,Intermediate,2026-02-08
+EMP0078,Employment Law,Advanced,2025-12-07
+EMP0079,SQL,Beginner,2025-07-19
+EMP0079,Stakeholder Management,Advanced,2026-05-16
+EMP0079,Communication,Intermediate,2025-10-23
+EMP0079,Employment Law,Beginner,2025-08-13
+EMP0080,Communication,Intermediate,2026-03-08
+EMP0080,Excel,Beginner,2026-03-30
+EMP0080,Change Management,Advanced,2025-11-30
+EMP0080,Project Management,Advanced,2025-09-22
+EMP0080,Recruitment,Intermediate,2026-03-13
+EMP0081,Agile,Intermediate,2026-04-28
+EMP0081,Change Management,Beginner,2026-02-10
+EMP0081,Employment Law,Advanced,2025-06-25
+EMP0081,Coaching,Intermediate,2025-08-24
+EMP0081,Python,Intermediate,2026-04-20
+EMP0082,Data Analysis,Advanced,2025-06-26
+EMP0082,Stakeholder Management,Intermediate,2025-08-10
+EMP0082,Leadership,Intermediate,2025-07-14
+EMP0082,Power BI,Intermediate,2026-04-11
+EMP0082,Project Management,Advanced,2026-02-06
+EMP0082,Employment Law,Intermediate,2026-05-24
+EMP0083,Tableau,Advanced,2026-01-02
+EMP0083,Employment Law,Advanced,2025-11-08
+EMP0083,Power BI,Beginner,2026-03-26
+EMP0083,Machine Learning,Beginner,2026-05-17
+EMP0083,Python,Intermediate,2025-09-26
+EMP0083,Risk Management,Beginner,2026-04-17
+EMP0083,Agile,Beginner,2025-09-03
+EMP0084,Coaching,Advanced,2025-06-14
+EMP0084,Risk Management,Advanced,2025-11-03
+EMP0084,Recruitment,Advanced,2026-03-18
+EMP0084,Employment Law,Intermediate,2025-07-05
+EMP0085,Agile,Beginner,2025-06-17
+EMP0085,Budgeting,Intermediate,2026-02-14
+EMP0085,Stakeholder Management,Intermediate,2025-10-21
+EMP0086,Recruitment,Advanced,2025-12-04
+EMP0086,Leadership,Beginner,2025-11-14
+EMP0086,Tableau,Intermediate,2026-02-28
+EMP0086,Stakeholder Management,Beginner,2025-10-16
+EMP0087,SQL,Intermediate,2026-02-01
+EMP0087,Data Analysis,Beginner,2025-08-20
+EMP0087,Python,Beginner,2026-05-01
+EMP0088,SQL,Beginner,2026-01-15
+EMP0088,Tableau,Beginner,2026-03-31
+EMP0088,Power BI,Advanced,2026-01-28
+EMP0088,Project Management,Beginner,2026-04-10
+EMP0088,Coaching,Advanced,2026-05-23
+EMP0088,Excel,Beginner,2026-05-29
+EMP0088,Change Management,Intermediate,2026-02-04
+EMP0089,Employment Law,Intermediate,2025-09-09
+EMP0089,Data Analysis,Beginner,2026-05-04
+EMP0089,Project Management,Intermediate,2025-10-19
+EMP0089,Communication,Intermediate,2025-09-16
+EMP0089,Machine Learning,Advanced,2026-04-11
+EMP0089,Excel,Intermediate,2025-09-21
+EMP0089,Recruitment,Beginner,2025-07-26
+EMP0090,Machine Learning,Advanced,2026-05-21
+EMP0090,Change Management,Beginner,2025-10-03
+EMP0090,Risk Management,Intermediate,2025-10-30
+EMP0091,Agile,Beginner,2025-12-23
+EMP0091,Risk Management,Advanced,2026-03-22
+EMP0091,Excel,Beginner,2026-04-02
+EMP0092,Tableau,Intermediate,2025-10-16
+EMP0092,Employment Law,Advanced,2025-07-31
+EMP0092,Coaching,Intermediate,2026-04-16
+EMP0092,Change Management,Advanced,2026-04-08
+EMP0092,Stakeholder Management,Advanced,2025-07-07
+EMP0093,SQL,Intermediate,2025-11-13
+EMP0093,Budgeting,Intermediate,2026-04-18
+EMP0093,Risk Management,Intermediate,2025-10-30
+EMP0093,Agile,Intermediate,2025-06-30
+EMP0093,Leadership,Intermediate,2025-11-26
+EMP0093,Tableau,Beginner,2025-06-19
+EMP0093,Project Management,Intermediate,2026-05-02
+EMP0094,Excel,Beginner,2025-11-27
+EMP0094,Tableau,Beginner,2025-08-25
+EMP0094,Budgeting,Beginner,2025-08-09
+EMP0095,Tableau,Advanced,2026-05-10
+EMP0095,Employment Law,Intermediate,2025-08-02
+EMP0095,Leadership,Intermediate,2025-12-07
+EMP0095,SQL,Beginner,2025-08-14
+EMP0095,Project Management,Advanced,2026-02-17
+EMP0095,Machine Learning,Beginner,2025-07-04
+EMP0095,Risk Management,Intermediate,2026-02-11
+EMP0096,Recruitment,Intermediate,2025-08-16
+EMP0096,Tableau,Beginner,2025-10-29
+EMP0096,Leadership,Advanced,2025-07-22
+EMP0097,Tableau,Intermediate,2025-12-14
+EMP0097,Data Analysis,Intermediate,2026-06-02
+EMP0097,Stakeholder Management,Beginner,2026-03-24
+EMP0097,Machine Learning,Advanced,2025-07-04
+EMP0097,Excel,Intermediate,2026-05-01
+EMP0097,Communication,Beginner,2025-07-16
+EMP0097,Recruitment,Beginner,2026-04-20
+EMP0098,SQL,Intermediate,2025-12-21
+EMP0098,Coaching,Advanced,2025-08-04
+EMP0098,Budgeting,Beginner,2026-05-10
+EMP0098,Power BI,Beginner,2026-03-17
+EMP0098,Project Management,Advanced,2026-05-11
+EMP0098,Excel,Advanced,2026-04-25
+EMP0098,Agile,Intermediate,2025-10-22
+EMP0099,Agile,Advanced,2026-04-08
+EMP0099,Risk Management,Intermediate,2025-10-28
+EMP0099,Budgeting,Beginner,2026-01-11
+EMP0099,Communication,Advanced,2025-06-23
+EMP0099,Leadership,Advanced,2025-09-29
+EMP0099,Coaching,Advanced,2025-06-29
+EMP0100,Python,Beginner,2026-02-21
+EMP0100,Power BI,Intermediate,2026-02-17
+EMP0100,Coaching,Beginner,2026-01-26
+EMP0100,Change Management,Intermediate,2025-12-20
+EMP0100,Data Analysis,Beginner,2026-06-02

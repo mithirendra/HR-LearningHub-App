@@ -1,0 +1,96 @@
+manager_id,department,skill_name,priority,timeline_months
+MGR001,Operations,Project Management,Medium,3
+MGR001,Operations,Communication,Low,3
+MGR001,Operations,Coaching,Low,3
+MGR001,Operations,Stakeholder Management,Low,3
+MGR001,Operations,Recruitment,Medium,12
+MGR001,Operations,Leadership,Low,12
+MGR002,Technology,Coaching,High,12
+MGR002,Technology,Data Analysis,Medium,3
+MGR002,Technology,Employment Law,Low,3
+MGR003,Finance,Coaching,Medium,6
+MGR003,Finance,Machine Learning,Medium,6
+MGR003,Finance,Excel,Critical,3
+MGR003,Finance,SQL,High,9
+MGR003,Finance,Budgeting,Medium,6
+MGR003,Finance,Communication,High,3
+MGR004,Finance,SQL,Critical,6
+MGR004,Finance,Project Management,Low,12
+MGR004,Finance,Communication,Low,9
+MGR004,Finance,Coaching,Medium,6
+MGR004,Finance,Risk Management,Low,3
+MGR005,Operations,Change Management,Medium,12
+MGR005,Operations,Stakeholder Management,Low,3
+MGR005,Operations,Python,Critical,9
+MGR005,Operations,Project Management,Medium,3
+MGR005,Operations,Machine Learning,Critical,12
+MGR005,Operations,Agile,Low,3
+MGR006,Operations,Employment Law,Low,3
+MGR006,Operations,Agile,Medium,3
+MGR006,Operations,Communication,High,3
+MGR006,Operations,Data Analysis,High,12
+MGR007,Operations,Recruitment,Low,9
+MGR007,Operations,Tableau,Critical,9
+MGR007,Operations,Change Management,Critical,9
+MGR007,Operations,SQL,Critical,12
+MGR008,Technology,Communication,High,9
+MGR008,Technology,Employment Law,Medium,12
+MGR008,Technology,Excel,High,3
+MGR008,Technology,Change Management,Medium,12
+MGR008,Technology,Machine Learning,Medium,6
+MGR009,Legal,Budgeting,Critical,9
+MGR009,Legal,Machine Learning,Medium,6
+MGR009,Legal,Recruitment,High,9
+MGR010,Operations,Power BI,Medium,3
+MGR010,Operations,Communication,Critical,9
+MGR010,Operations,Machine Learning,High,12
+MGR010,Operations,Python,High,6
+MGR011,Finance,Risk Management,High,12
+MGR011,Finance,Python,Medium,12
+MGR011,Finance,Budgeting,High,6
+MGR011,Finance,Project Management,Medium,12
+MGR012,Finance,Risk Management,Low,6
+MGR012,Finance,Tableau,High,6
+MGR012,Finance,Change Management,Medium,3
+MGR012,Finance,Coaching,Low,9
+MGR012,Finance,SQL,Critical,3
+MGR013,Technology,Project Management,High,12
+MGR013,Technology,Stakeholder Management,Critical,6
+MGR013,Technology,Risk Management,Low,9
+MGR014,HR,Python,Medium,6
+MGR014,HR,Coaching,Critical,9
+MGR014,HR,Recruitment,Critical,9
+MGR014,HR,Leadership,High,6
+MGR014,HR,SQL,Critical,9
+MGR014,HR,Tableau,Low,6
+MGR015,Legal,Risk Management,High,12
+MGR015,Legal,Data Analysis,Critical,9
+MGR015,Legal,Excel,High,9
+MGR015,Legal,Machine Learning,Critical,3
+MGR015,Legal,Communication,High,12
+MGR015,Legal,Leadership,Low,3
+MGR016,HR,Tableau,Low,3
+MGR016,HR,Data Analysis,Medium,6
+MGR016,HR,Power BI,Low,6
+MGR016,HR,Recruitment,Critical,9
+MGR016,HR,Excel,Critical,3
+MGR016,HR,Communication,Low,12
+MGR017,HR,Recruitment,Medium,6
+MGR017,HR,Stakeholder Management,Critical,9
+MGR017,HR,Data Analysis,High,3
+MGR017,HR,Project Management,Medium,9
+MGR017,HR,Coaching,High,12
+MGR017,HR,Python,Low,6
+MGR018,Finance,Risk Management,High,3
+MGR018,Finance,Python,High,3
+MGR018,Finance,Change Management,Medium,9
+MGR019,Sales,Tableau,High,9
+MGR019,Sales,Agile,Medium,3
+MGR019,Sales,Stakeholder Management,Medium,9
+MGR019,Sales,Data Analysis,Critical,9
+MGR019,Sales,Coaching,Low,12
+MGR019,Sales,Employment Law,Low,12
+MGR020,Technology,Agile,Medium,3
+MGR020,Technology,Tableau,Low,3
+MGR020,Technology,Recruitment,Low,6
+MGR020,Technology,Risk Management,Medium,9

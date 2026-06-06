@@ -1,0 +1,315 @@
+department,role,skill,current_supply,future_demand,gap_score,priority,last_updated
+Legal,Senior Analyst,Budgeting,65,90,25,Medium,2026-06-06 06:40:20
+Legal,Senior Analyst,Communication,90,75,0,Low,2026-06-06 06:40:20
+Legal,Senior Analyst,Data Analysis,30,90,60,Critical,2026-06-06 06:40:20
+Legal,Senior Analyst,Excel,30,75,45,High,2026-06-06 06:40:20
+Legal,Senior Analyst,Leadership,0,45,45,High,2026-06-06 06:40:20
+Legal,Senior Analyst,Machine Learning,30,90,60,Critical,2026-06-06 06:40:20
+Legal,Senior Analyst,Recruitment,30,75,45,High,2026-06-06 06:40:20
+Legal,Senior Analyst,Risk Management,65,75,10,Low,2026-06-06 06:40:20
+Technology,Senior Analyst,Agile,48,60,12,Low,2026-06-06 06:40:20
+Technology,Senior Analyst,Change Management,30,60,30,High,2026-06-06 06:40:20
+Technology,Senior Analyst,Coaching,30,75,45,High,2026-06-06 06:40:20
+Technology,Senior Analyst,Communication,0,75,75,Critical,2026-06-06 06:40:20
+Technology,Senior Analyst,Data Analysis,90,60,0,Low,2026-06-06 06:40:20
+Technology,Senior Analyst,Employment Law,0,60,60,Critical,2026-06-06 06:40:20
+Technology,Senior Analyst,Excel,0,75,75,Critical,2026-06-06 06:40:20
+Technology,Senior Analyst,Machine Learning,65,60,0,Low,2026-06-06 06:40:20
+Technology,Senior Analyst,Project Management,0,75,75,Critical,2026-06-06 06:40:20
+Technology,Senior Analyst,Recruitment,0,45,45,High,2026-06-06 06:40:20
+Technology,Senior Analyst,Risk Management,48,60,12,Low,2026-06-06 06:40:20
+Technology,Senior Analyst,Stakeholder Management,0,90,90,Critical,2026-06-06 06:40:20
+Technology,Senior Analyst,Tableau,48,45,0,Low,2026-06-06 06:40:20
+Legal,Analyst,Budgeting,62,90,28,Medium,2026-06-06 06:40:20
+Legal,Analyst,Communication,48,75,27,Medium,2026-06-06 06:40:20
+Legal,Analyst,Data Analysis,48,90,42,High,2026-06-06 06:40:20
+Legal,Analyst,Excel,62,75,13,Low,2026-06-06 06:40:20
+Legal,Analyst,Leadership,0,45,45,High,2026-06-06 06:40:20
+Legal,Analyst,Machine Learning,90,90,0,Low,2026-06-06 06:40:20
+Legal,Analyst,Recruitment,0,75,75,Critical,2026-06-06 06:40:20
+Legal,Analyst,Risk Management,90,75,0,Low,2026-06-06 06:40:20
+Finance,Analyst,Budgeting,69,75,6,Low,2026-06-06 06:40:20
+Finance,Analyst,Change Management,48,60,12,Low,2026-06-06 06:40:20
+Finance,Analyst,Coaching,48,60,12,Low,2026-06-06 06:40:20
+Finance,Analyst,Communication,65,75,10,Low,2026-06-06 06:40:20
+Finance,Analyst,Excel,0,90,90,Critical,2026-06-06 06:40:20
+Finance,Analyst,Machine Learning,90,60,0,Low,2026-06-06 06:40:20
+Finance,Analyst,Project Management,30,60,30,High,2026-06-06 06:40:20
+Finance,Analyst,Python,30,75,45,High,2026-06-06 06:40:20
+Finance,Analyst,Risk Management,65,75,10,Low,2026-06-06 06:40:20
+Finance,Analyst,SQL,65,90,25,Medium,2026-06-06 06:40:20
+Finance,Analyst,Tableau,30,75,45,High,2026-06-06 06:40:20
+Legal,Manager,Budgeting,0,90,90,Critical,2026-06-06 06:40:20
+Legal,Manager,Communication,30,75,45,High,2026-06-06 06:40:20
+Legal,Manager,Data Analysis,0,90,90,Critical,2026-06-06 06:40:20
+Legal,Manager,Excel,0,75,75,Critical,2026-06-06 06:40:20
+Legal,Manager,Leadership,30,45,15,Medium,2026-06-06 06:40:20
+Legal,Manager,Machine Learning,0,90,90,Critical,2026-06-06 06:40:20
+Legal,Manager,Recruitment,65,75,10,Low,2026-06-06 06:40:20
+Legal,Manager,Risk Management,0,75,75,Critical,2026-06-06 06:40:20
+Technology,Senior Manager,Agile,0,60,60,Critical,2026-06-06 06:40:20
+Technology,Senior Manager,Change Management,0,60,60,Critical,2026-06-06 06:40:20
+Technology,Senior Manager,Coaching,0,75,75,Critical,2026-06-06 06:40:20
+Technology,Senior Manager,Communication,65,75,10,Low,2026-06-06 06:40:20
+Technology,Senior Manager,Data Analysis,90,60,0,Low,2026-06-06 06:40:20
+Technology,Senior Manager,Employment Law,69,60,0,Low,2026-06-06 06:40:20
+Technology,Senior Manager,Excel,0,75,75,Critical,2026-06-06 06:40:20
+Technology,Senior Manager,Machine Learning,90,60,0,Low,2026-06-06 06:40:20
+Technology,Senior Manager,Project Management,0,75,75,Critical,2026-06-06 06:40:20
+Technology,Senior Manager,Recruitment,0,45,45,High,2026-06-06 06:40:20
+Technology,Senior Manager,Risk Management,90,60,0,Low,2026-06-06 06:40:20
+Technology,Senior Manager,Stakeholder Management,90,90,0,Low,2026-06-06 06:40:20
+Technology,Senior Manager,Tableau,30,45,15,Medium,2026-06-06 06:40:20
+Operations,Senior Analyst,Agile,65,60,0,Low,2026-06-06 06:40:20
+Operations,Senior Analyst,Change Management,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Senior Analyst,Coaching,60,45,0,Low,2026-06-06 06:40:20
+Operations,Senior Analyst,Communication,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Senior Analyst,Data Analysis,0,75,75,Critical,2026-06-06 06:40:20
+Operations,Senior Analyst,Employment Law,0,45,45,High,2026-06-06 06:40:20
+Operations,Senior Analyst,Leadership,0,45,45,High,2026-06-06 06:40:20
+Operations,Senior Analyst,Machine Learning,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Senior Analyst,Power BI,30,60,30,High,2026-06-06 06:40:20
+Operations,Senior Analyst,Project Management,90,60,0,Low,2026-06-06 06:40:20
+Operations,Senior Analyst,Python,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Senior Analyst,Recruitment,0,60,60,Critical,2026-06-06 06:40:20
+Operations,Senior Analyst,SQL,65,90,25,Medium,2026-06-06 06:40:20
+Operations,Senior Analyst,Stakeholder Management,0,45,45,High,2026-06-06 06:40:20
+Operations,Senior Analyst,Tableau,0,90,90,Critical,2026-06-06 06:40:20
+Sales,Director,Agile,65,60,0,Low,2026-06-06 06:40:20
+Sales,Director,Coaching,60,45,0,Low,2026-06-06 06:40:20
+Sales,Director,Data Analysis,90,90,0,Low,2026-06-06 06:40:20
+Sales,Director,Employment Law,48,45,0,Low,2026-06-06 06:40:20
+Sales,Director,Stakeholder Management,78,60,0,Low,2026-06-06 06:40:20
+Sales,Director,Tableau,0,75,75,Critical,2026-06-06 06:40:20
+HR,Analyst,Coaching,30,90,60,Critical,2026-06-06 06:40:20
+HR,Analyst,Communication,65,45,0,Low,2026-06-06 06:40:20
+HR,Analyst,Data Analysis,30,75,45,High,2026-06-06 06:40:20
+HR,Analyst,Excel,60,90,30,High,2026-06-06 06:40:20
+HR,Analyst,Leadership,65,75,10,Low,2026-06-06 06:40:20
+HR,Analyst,Power BI,48,45,0,Low,2026-06-06 06:40:20
+HR,Analyst,Project Management,73,60,0,Low,2026-06-06 06:40:20
+HR,Analyst,Python,30,60,30,High,2026-06-06 06:40:20
+HR,Analyst,Recruitment,65,90,25,Medium,2026-06-06 06:40:20
+HR,Analyst,SQL,65,90,25,Medium,2026-06-06 06:40:20
+HR,Analyst,Stakeholder Management,65,90,25,Medium,2026-06-06 06:40:20
+HR,Analyst,Tableau,30,45,15,Medium,2026-06-06 06:40:20
+Sales,Manager,Agile,0,60,60,Critical,2026-06-06 06:40:20
+Sales,Manager,Coaching,30,45,15,Medium,2026-06-06 06:40:20
+Sales,Manager,Data Analysis,0,90,90,Critical,2026-06-06 06:40:20
+Sales,Manager,Employment Law,53,45,0,Low,2026-06-06 06:40:20
+Sales,Manager,Stakeholder Management,60,60,0,Low,2026-06-06 06:40:20
+Sales,Manager,Tableau,48,75,27,Medium,2026-06-06 06:40:20
+Technology,Manager,Agile,0,60,60,Critical,2026-06-06 06:40:20
+Technology,Manager,Change Management,62,60,0,Low,2026-06-06 06:40:20
+Technology,Manager,Coaching,30,75,45,High,2026-06-06 06:40:20
+Technology,Manager,Communication,65,75,10,Low,2026-06-06 06:40:20
+Technology,Manager,Data Analysis,30,60,30,High,2026-06-06 06:40:20
+Technology,Manager,Employment Law,60,60,0,Low,2026-06-06 06:40:20
+Technology,Manager,Excel,65,75,10,Low,2026-06-06 06:40:20
+Technology,Manager,Machine Learning,78,60,0,Low,2026-06-06 06:40:20
+Technology,Manager,Project Management,65,75,10,Low,2026-06-06 06:40:20
+Technology,Manager,Recruitment,0,45,45,High,2026-06-06 06:40:20
+Technology,Manager,Risk Management,0,60,60,Critical,2026-06-06 06:40:20
+Technology,Manager,Stakeholder Management,90,90,0,Low,2026-06-06 06:40:20
+Technology,Manager,Tableau,60,45,0,Low,2026-06-06 06:40:20
+Technology,Analyst,Agile,48,60,12,Low,2026-06-06 06:40:20
+Technology,Analyst,Change Management,53,60,7,Low,2026-06-06 06:40:20
+Technology,Analyst,Coaching,65,75,10,Low,2026-06-06 06:40:20
+Technology,Analyst,Communication,90,75,0,Low,2026-06-06 06:40:20
+Technology,Analyst,Data Analysis,65,60,0,Low,2026-06-06 06:40:20
+Technology,Analyst,Employment Law,90,60,0,Low,2026-06-06 06:40:20
+Technology,Analyst,Excel,30,75,45,High,2026-06-06 06:40:20
+Technology,Analyst,Machine Learning,62,60,0,Low,2026-06-06 06:40:20
+Technology,Analyst,Project Management,60,75,15,Medium,2026-06-06 06:40:20
+Technology,Analyst,Recruitment,30,45,15,Medium,2026-06-06 06:40:20
+Technology,Analyst,Risk Management,60,60,0,Low,2026-06-06 06:40:20
+Technology,Analyst,Stakeholder Management,90,90,0,Low,2026-06-06 06:40:20
+Technology,Analyst,Tableau,90,45,0,Low,2026-06-06 06:40:20
+Finance,Manager,Budgeting,0,75,75,Critical,2026-06-06 06:40:20
+Finance,Manager,Change Management,0,60,60,Critical,2026-06-06 06:40:20
+Finance,Manager,Coaching,0,60,60,Critical,2026-06-06 06:40:20
+Finance,Manager,Communication,0,75,75,Critical,2026-06-06 06:40:20
+Finance,Manager,Excel,90,90,0,Low,2026-06-06 06:40:20
+Finance,Manager,Machine Learning,0,60,60,Critical,2026-06-06 06:40:20
+Finance,Manager,Project Management,0,60,60,Critical,2026-06-06 06:40:20
+Finance,Manager,Python,65,75,10,Low,2026-06-06 06:40:20
+Finance,Manager,Risk Management,0,75,75,Critical,2026-06-06 06:40:20
+Finance,Manager,SQL,0,90,90,Critical,2026-06-06 06:40:20
+Finance,Manager,Tableau,0,75,75,Critical,2026-06-06 06:40:20
+HR,Senior Analyst,Coaching,78,90,12,Low,2026-06-06 06:40:20
+HR,Senior Analyst,Communication,30,45,15,Medium,2026-06-06 06:40:20
+HR,Senior Analyst,Data Analysis,65,75,10,Low,2026-06-06 06:40:20
+HR,Senior Analyst,Excel,30,90,60,Critical,2026-06-06 06:40:20
+HR,Senior Analyst,Leadership,65,75,10,Low,2026-06-06 06:40:20
+HR,Senior Analyst,Power BI,90,45,0,Low,2026-06-06 06:40:20
+HR,Senior Analyst,Project Management,30,60,30,High,2026-06-06 06:40:20
+HR,Senior Analyst,Python,90,60,0,Low,2026-06-06 06:40:20
+HR,Senior Analyst,Recruitment,0,90,90,Critical,2026-06-06 06:40:20
+HR,Senior Analyst,SQL,53,90,37,High,2026-06-06 06:40:20
+HR,Senior Analyst,Stakeholder Management,0,90,90,Critical,2026-06-06 06:40:20
+HR,Senior Analyst,Tableau,30,45,15,Medium,2026-06-06 06:40:20
+Operations,Manager,Agile,30,60,30,High,2026-06-06 06:40:20
+Operations,Manager,Change Management,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Manager,Coaching,30,45,15,Medium,2026-06-06 06:40:20
+Operations,Manager,Communication,48,90,42,High,2026-06-06 06:40:20
+Operations,Manager,Data Analysis,90,75,0,Low,2026-06-06 06:40:20
+Operations,Manager,Employment Law,73,45,0,Low,2026-06-06 06:40:20
+Operations,Manager,Leadership,82,45,0,Low,2026-06-06 06:40:20
+Operations,Manager,Machine Learning,90,90,0,Low,2026-06-06 06:40:20
+Operations,Manager,Power BI,68,60,0,Low,2026-06-06 06:40:20
+Operations,Manager,Project Management,78,60,0,Low,2026-06-06 06:40:20
+Operations,Manager,Python,30,90,60,Critical,2026-06-06 06:40:20
+Operations,Manager,Recruitment,30,60,30,High,2026-06-06 06:40:20
+Operations,Manager,SQL,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Manager,Stakeholder Management,65,45,0,Low,2026-06-06 06:40:20
+Operations,Manager,Tableau,78,90,12,Low,2026-06-06 06:40:20
+Sales,Analyst,Agile,0,60,60,Critical,2026-06-06 06:40:20
+Sales,Analyst,Coaching,65,45,0,Low,2026-06-06 06:40:20
+Sales,Analyst,Data Analysis,78,90,12,Low,2026-06-06 06:40:20
+Sales,Analyst,Employment Law,65,45,0,Low,2026-06-06 06:40:20
+Sales,Analyst,Stakeholder Management,0,60,60,Critical,2026-06-06 06:40:20
+Sales,Analyst,Tableau,62,75,13,Low,2026-06-06 06:40:20
+Legal,Director,Budgeting,30,90,60,Critical,2026-06-06 06:40:20
+Legal,Director,Communication,0,75,75,Critical,2026-06-06 06:40:20
+Legal,Director,Data Analysis,0,90,90,Critical,2026-06-06 06:40:20
+Legal,Director,Excel,48,75,27,Medium,2026-06-06 06:40:20
+Legal,Director,Leadership,65,45,0,Low,2026-06-06 06:40:20
+Legal,Director,Machine Learning,60,90,30,High,2026-06-06 06:40:20
+Legal,Director,Recruitment,0,75,75,Critical,2026-06-06 06:40:20
+Legal,Director,Risk Management,65,75,10,Low,2026-06-06 06:40:20
+HR,Manager,Coaching,0,90,90,Critical,2026-06-06 06:40:20
+HR,Manager,Communication,90,45,0,Low,2026-06-06 06:40:20
+HR,Manager,Data Analysis,30,75,45,High,2026-06-06 06:40:20
+HR,Manager,Excel,30,90,60,Critical,2026-06-06 06:40:20
+HR,Manager,Leadership,30,75,45,High,2026-06-06 06:40:20
+HR,Manager,Power BI,0,45,45,High,2026-06-06 06:40:20
+HR,Manager,Project Management,0,60,60,Critical,2026-06-06 06:40:20
+HR,Manager,Python,90,60,0,Low,2026-06-06 06:40:20
+HR,Manager,Recruitment,0,90,90,Critical,2026-06-06 06:40:20
+HR,Manager,SQL,0,90,90,Critical,2026-06-06 06:40:20
+HR,Manager,Stakeholder Management,0,90,90,Critical,2026-06-06 06:40:20
+HR,Manager,Tableau,30,45,15,Medium,2026-06-06 06:40:20
+Operations,Analyst,Agile,30,60,30,High,2026-06-06 06:40:20
+Operations,Analyst,Change Management,30,90,60,Critical,2026-06-06 06:40:20
+Operations,Analyst,Coaching,90,45,0,Low,2026-06-06 06:40:20
+Operations,Analyst,Communication,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Analyst,Data Analysis,0,75,75,Critical,2026-06-06 06:40:20
+Operations,Analyst,Employment Law,78,45,0,Low,2026-06-06 06:40:20
+Operations,Analyst,Leadership,30,45,15,Medium,2026-06-06 06:40:20
+Operations,Analyst,Machine Learning,30,90,60,Critical,2026-06-06 06:40:20
+Operations,Analyst,Power BI,30,60,30,High,2026-06-06 06:40:20
+Operations,Analyst,Project Management,0,60,60,Critical,2026-06-06 06:40:20
+Operations,Analyst,Python,65,90,25,Medium,2026-06-06 06:40:20
+Operations,Analyst,Recruitment,90,60,0,Low,2026-06-06 06:40:20
+Operations,Analyst,SQL,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Analyst,Stakeholder Management,0,45,45,High,2026-06-06 06:40:20
+Operations,Analyst,Tableau,0,90,90,Critical,2026-06-06 06:40:20
+Finance,Senior Manager,Budgeting,30,75,45,High,2026-06-06 06:40:20
+Finance,Senior Manager,Change Management,90,60,0,Low,2026-06-06 06:40:20
+Finance,Senior Manager,Coaching,60,60,0,Low,2026-06-06 06:40:20
+Finance,Senior Manager,Communication,90,75,0,Low,2026-06-06 06:40:20
+Finance,Senior Manager,Excel,0,90,90,Critical,2026-06-06 06:40:20
+Finance,Senior Manager,Machine Learning,65,60,0,Low,2026-06-06 06:40:20
+Finance,Senior Manager,Project Management,0,60,60,Critical,2026-06-06 06:40:20
+Finance,Senior Manager,Python,0,75,75,Critical,2026-06-06 06:40:20
+Finance,Senior Manager,Risk Management,78,75,0,Low,2026-06-06 06:40:20
+Finance,Senior Manager,SQL,0,90,90,Critical,2026-06-06 06:40:20
+Finance,Senior Manager,Tableau,30,75,45,High,2026-06-06 06:40:20
+Sales,Senior Manager,Agile,65,60,0,Low,2026-06-06 06:40:20
+Sales,Senior Manager,Coaching,65,45,0,Low,2026-06-06 06:40:20
+Sales,Senior Manager,Data Analysis,30,90,60,Critical,2026-06-06 06:40:20
+Sales,Senior Manager,Employment Law,78,45,0,Low,2026-06-06 06:40:20
+Sales,Senior Manager,Stakeholder Management,0,60,60,Critical,2026-06-06 06:40:20
+Sales,Senior Manager,Tableau,65,75,10,Low,2026-06-06 06:40:20
+Sales,Senior Analyst,Agile,0,60,60,Critical,2026-06-06 06:40:20
+Sales,Senior Analyst,Coaching,0,45,45,High,2026-06-06 06:40:20
+Sales,Senior Analyst,Data Analysis,65,90,25,Medium,2026-06-06 06:40:20
+Sales,Senior Analyst,Employment Law,0,45,45,High,2026-06-06 06:40:20
+Sales,Senior Analyst,Stakeholder Management,90,60,0,Low,2026-06-06 06:40:20
+Sales,Senior Analyst,Tableau,65,75,10,Low,2026-06-06 06:40:20
+Operations,Senior Manager,Agile,90,60,0,Low,2026-06-06 06:40:20
+Operations,Senior Manager,Change Management,90,90,0,Low,2026-06-06 06:40:20
+Operations,Senior Manager,Coaching,0,45,45,High,2026-06-06 06:40:20
+Operations,Senior Manager,Communication,65,90,25,Medium,2026-06-06 06:40:20
+Operations,Senior Manager,Data Analysis,90,75,0,Low,2026-06-06 06:40:20
+Operations,Senior Manager,Employment Law,0,45,45,High,2026-06-06 06:40:20
+Operations,Senior Manager,Leadership,0,45,45,High,2026-06-06 06:40:20
+Operations,Senior Manager,Machine Learning,30,90,60,Critical,2026-06-06 06:40:20
+Operations,Senior Manager,Power BI,65,60,0,Low,2026-06-06 06:40:20
+Operations,Senior Manager,Project Management,0,60,60,Critical,2026-06-06 06:40:20
+Operations,Senior Manager,Python,30,90,60,Critical,2026-06-06 06:40:20
+Operations,Senior Manager,Recruitment,0,60,60,Critical,2026-06-06 06:40:20
+Operations,Senior Manager,SQL,90,90,0,Low,2026-06-06 06:40:20
+Operations,Senior Manager,Stakeholder Management,0,45,45,High,2026-06-06 06:40:20
+Operations,Senior Manager,Tableau,65,90,25,Medium,2026-06-06 06:40:20
+HR,Senior Manager,Coaching,65,90,25,Medium,2026-06-06 06:40:20
+HR,Senior Manager,Communication,65,45,0,Low,2026-06-06 06:40:20
+HR,Senior Manager,Data Analysis,0,75,75,Critical,2026-06-06 06:40:20
+HR,Senior Manager,Excel,65,90,25,Medium,2026-06-06 06:40:20
+HR,Senior Manager,Leadership,0,75,75,Critical,2026-06-06 06:40:20
+HR,Senior Manager,Power BI,0,45,45,High,2026-06-06 06:40:20
+HR,Senior Manager,Project Management,0,60,60,Critical,2026-06-06 06:40:20
+HR,Senior Manager,Python,0,60,60,Critical,2026-06-06 06:40:20
+HR,Senior Manager,Recruitment,0,90,90,Critical,2026-06-06 06:40:20
+HR,Senior Manager,SQL,0,90,90,Critical,2026-06-06 06:40:20
+HR,Senior Manager,Stakeholder Management,90,90,0,Low,2026-06-06 06:40:20
+HR,Senior Manager,Tableau,65,45,0,Low,2026-06-06 06:40:20
+Technology,Director,Agile,0,60,60,Critical,2026-06-06 06:40:20
+Technology,Director,Change Management,65,60,0,Low,2026-06-06 06:40:20
+Technology,Director,Coaching,0,75,75,Critical,2026-06-06 06:40:20
+Technology,Director,Communication,90,75,0,Low,2026-06-06 06:40:20
+Technology,Director,Data Analysis,0,60,60,Critical,2026-06-06 06:40:20
+Technology,Director,Employment Law,0,60,60,Critical,2026-06-06 06:40:20
+Technology,Director,Excel,0,75,75,Critical,2026-06-06 06:40:20
+Technology,Director,Machine Learning,0,60,60,Critical,2026-06-06 06:40:20
+Technology,Director,Project Management,30,75,45,High,2026-06-06 06:40:20
+Technology,Director,Recruitment,90,45,0,Low,2026-06-06 06:40:20
+Technology,Director,Risk Management,0,60,60,Critical,2026-06-06 06:40:20
+Technology,Director,Stakeholder Management,90,90,0,Low,2026-06-06 06:40:20
+Technology,Director,Tableau,0,45,45,High,2026-06-06 06:40:20
+Finance,Senior Analyst,Budgeting,0,75,75,Critical,2026-06-06 06:40:20
+Finance,Senior Analyst,Change Management,0,60,60,Critical,2026-06-06 06:40:20
+Finance,Senior Analyst,Coaching,0,60,60,Critical,2026-06-06 06:40:20
+Finance,Senior Analyst,Communication,30,75,45,High,2026-06-06 06:40:20
+Finance,Senior Analyst,Excel,0,90,90,Critical,2026-06-06 06:40:20
+Finance,Senior Analyst,Machine Learning,90,60,0,Low,2026-06-06 06:40:20
+Finance,Senior Analyst,Project Management,90,60,0,Low,2026-06-06 06:40:20
+Finance,Senior Analyst,Python,0,75,75,Critical,2026-06-06 06:40:20
+Finance,Senior Analyst,Risk Management,0,75,75,Critical,2026-06-06 06:40:20
+Finance,Senior Analyst,SQL,60,90,30,High,2026-06-06 06:40:20
+Finance,Senior Analyst,Tableau,78,75,0,Low,2026-06-06 06:40:20
+HR,Director,Coaching,30,90,60,Critical,2026-06-06 06:40:20
+HR,Director,Communication,30,45,15,Medium,2026-06-06 06:40:20
+HR,Director,Data Analysis,65,75,10,Low,2026-06-06 06:40:20
+HR,Director,Excel,65,90,25,Medium,2026-06-06 06:40:20
+HR,Director,Leadership,0,75,75,Critical,2026-06-06 06:40:20
+HR,Director,Power BI,65,45,0,Low,2026-06-06 06:40:20
+HR,Director,Project Management,0,60,60,Critical,2026-06-06 06:40:20
+HR,Director,Python,0,60,60,Critical,2026-06-06 06:40:20
+HR,Director,Recruitment,30,90,60,Critical,2026-06-06 06:40:20
+HR,Director,SQL,0,90,90,Critical,2026-06-06 06:40:20
+HR,Director,Stakeholder Management,30,90,60,Critical,2026-06-06 06:40:20
+HR,Director,Tableau,78,45,0,Low,2026-06-06 06:40:20
+Operations,Director,Agile,65,60,0,Low,2026-06-06 06:40:20
+Operations,Director,Change Management,30,90,60,Critical,2026-06-06 06:40:20
+Operations,Director,Coaching,65,45,0,Low,2026-06-06 06:40:20
+Operations,Director,Communication,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Director,Data Analysis,0,75,75,Critical,2026-06-06 06:40:20
+Operations,Director,Employment Law,0,45,45,High,2026-06-06 06:40:20
+Operations,Director,Leadership,65,45,0,Low,2026-06-06 06:40:20
+Operations,Director,Machine Learning,90,90,0,Low,2026-06-06 06:40:20
+Operations,Director,Power BI,0,60,60,Critical,2026-06-06 06:40:20
+Operations,Director,Project Management,90,60,0,Low,2026-06-06 06:40:20
+Operations,Director,Python,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Director,Recruitment,90,60,0,Low,2026-06-06 06:40:20
+Operations,Director,SQL,0,90,90,Critical,2026-06-06 06:40:20
+Operations,Director,Stakeholder Management,0,45,45,High,2026-06-06 06:40:20
+Operations,Director,Tableau,30,90,60,Critical,2026-06-06 06:40:20
+Legal,Senior Manager,Budgeting,0,90,90,Critical,2026-06-06 06:40:20
+Legal,Senior Manager,Communication,0,75,75,Critical,2026-06-06 06:40:20
+Legal,Senior Manager,Data Analysis,0,90,90,Critical,2026-06-06 06:40:20
+Legal,Senior Manager,Excel,0,75,75,Critical,2026-06-06 06:40:20
+Legal,Senior Manager,Leadership,30,45,15,Medium,2026-06-06 06:40:20
+Legal,Senior Manager,Machine Learning,0,90,90,Critical,2026-06-06 06:40:20
+Legal,Senior Manager,Recruitment,90,75,0,Low,2026-06-06 06:40:20
+Legal,Senior Manager,Risk Management,0,75,75,Critical,2026-06-06 06:40:20

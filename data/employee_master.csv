@@ -1,0 +1,101 @@
+employee_id,name,email,role,department,manager_id,join_date
+EMP0001,Weng Hong Chan,weng.chan@mitma.com.my,Senior Analyst,Legal,MGR008,2022-08-18
+EMP0002,Liyana Koh,liyana.koh@mitma.com.my,Senior Analyst,Technology,MGR014,2023-07-20
+EMP0003,Priya Tan,priya.tan@mitma.com.my,Analyst,Legal,MGR001,2023-10-09
+EMP0004,Kumaran Lee,kumaran.lee@mitma.com.my,Senior Analyst,Legal,MGR006,2023-01-21
+EMP0005,Siew Mei bin Mohd Nor,siew.nor@mitma.com.my,Analyst,Finance,MGR009,2023-01-07
+EMP0006,Syafiq a/p Govindasamy,syafiq.govindasamy@mitma.com.my,Manager,Legal,MGR009,2024-01-20
+EMP0007,Aishah Kok,aishah.kok@mitma.com.my,Senior Manager,Technology,MGR015,2025-01-05
+EMP0008,Dinesh Goh,dinesh.goh@mitma.com.my,Senior Analyst,Operations,MGR010,2022-08-19
+EMP0009,Siti binti Rahman,siti.rahman@mitma.com.my,Director,Sales,MGR013,2023-02-24
+EMP0010,Arjun bin Yusof,arjun.yusof@mitma.com.my,Analyst,HR,MGR017,2022-09-18
+EMP0011,Ahmad bin Hamid,ahmad.hamid@mitma.com.my,Manager,Sales,MGR020,2023-01-05
+EMP0012,Hui Shan a/l Kumar,hui.kumar@mitma.com.my,Manager,Technology,MGR004,2023-09-23
+EMP0013,Malini a/p Subramaniam,malini.subramaniam@mitma.com.my,Analyst,Technology,MGR009,2022-11-02
+EMP0014,Deepa a/p Pillai,deepa.pillai@mitma.com.my,Manager,Technology,MGR009,2022-10-01
+EMP0015,Nisha binti Bakar,nisha.bakar@mitma.com.my,Manager,Finance,MGR005,2023-07-12
+EMP0016,Hafiz Yap,hafiz.yap@mitma.com.my,Senior Analyst,HR,MGR020,2024-02-29
+EMP0017,Mohan binti Ismail,mohan.ismail@mitma.com.my,Manager,Legal,MGR005,2022-05-20
+EMP0018,Yong Jie a/l Krishnan,yong.krishnan@mitma.com.my,Analyst,Legal,MGR016,2024-10-08
+EMP0019,Nabilah Chong,nabilah.chong@mitma.com.my,Manager,Operations,MGR013,2024-04-01
+EMP0020,Muhammad a/l Muthu,muhammad.muthu@mitma.com.my,Analyst,Sales,MGR019,2021-11-07
+EMP0021,Lavanya binti Zainuddin,lavanya.zainuddin@mitma.com.my,Senior Analyst,Technology,MGR008,2022-07-31
+EMP0022,Boon Keng bin Abdullah,boon.abdullah@mitma.com.my,Director,Legal,MGR016,2022-08-30
+EMP0023,Nurul Liew,nurul.liew@mitma.com.my,Manager,Sales,MGR010,2021-09-08
+EMP0024,Zulaikha binti Hassan,zulaikha.hassan@mitma.com.my,Senior Analyst,Legal,MGR018,2025-05-31
+EMP0025,Mei Xian Cheah,mei.cheah@mitma.com.my,Manager,HR,MGR016,2025-09-16
+EMP0026,Li Ying a/l Raman,li.raman@mitma.com.my,Manager,Legal,MGR018,2022-02-24
+EMP0027,Wei Ling Ooi,wei.ooi@mitma.com.my,Senior Analyst,Legal,MGR011,2022-10-04
+EMP0028,Chun Kiat Ng,chun.ng@mitma.com.my,Analyst,Finance,MGR012,2025-03-05
+EMP0029,Azrul a/p Rajasekaran,azrul.rajasekaran@mitma.com.my,Manager,Operations,MGR011,2024-05-05
+EMP0030,Vikram Lim,vikram.lim@mitma.com.my,Manager,Sales,MGR010,2023-10-30
+EMP0031,Suresh bin Othman,suresh.othman@mitma.com.my,Analyst,Operations,MGR002,2021-07-27
+EMP0032,Izzatul Wong,izzatul.wong@mitma.com.my,Director,Sales,MGR020,2026-01-11
+EMP0033,Shanthi Teh,shanthi.teh@mitma.com.my,Senior Manager,Finance,MGR017,2025-10-03
+EMP0034,Rashid Chan,rashid.chan@mitma.com.my,Senior Manager,Sales,MGR010,2024-02-10
+EMP0035,Farah Koh,farah.koh@mitma.com.my,Analyst,Finance,MGR005,2025-04-21
+EMP0036,Ai Leen Tan,ai.tan@mitma.com.my,Manager,Operations,MGR019,2023-11-11
+EMP0037,Norzahra Lee,norzahra.lee@mitma.com.my,Senior Analyst,Technology,MGR006,2022-01-22
+EMP0038,Kai Xin bin Mohd Nor,kai.nor@mitma.com.my,Analyst,Operations,MGR011,2022-11-21
+EMP0039,Kavitha a/p Govindasamy,kavitha.govindasamy@mitma.com.my,Senior Analyst,Technology,MGR002,2026-05-27
+EMP0040,Fikri Kok,fikri.kok@mitma.com.my,Senior Manager,Technology,MGR007,2022-02-28
+EMP0041,Khairul Goh,khairul.goh@mitma.com.my,Senior Analyst,Sales,MGR006,2023-09-07
+EMP0042,Firdaus binti Rahman,firdaus.rahman@mitma.com.my,Analyst,Finance,MGR020,2023-12-30
+EMP0043,Azman bin Yusof,azman.yusof@mitma.com.my,Senior Manager,Operations,MGR014,2023-10-02
+EMP0044,Hakim bin Hamid,hakim.hamid@mitma.com.my,Senior Manager,HR,MGR002,2023-06-08
+EMP0045,Suraya a/l Kumar,suraya.kumar@mitma.com.my,Senior Analyst,Legal,MGR012,2026-05-08
+EMP0046,Rajan a/p Subramaniam,rajan.subramaniam@mitma.com.my,Manager,Sales,MGR007,2026-04-30
+EMP0047,Jun Hao a/p Pillai,jun.pillai@mitma.com.my,Analyst,Legal,MGR008,2025-02-27
+EMP0048,Zhi Wei binti Bakar,zhi.bakar@mitma.com.my,Manager,Technology,MGR005,2025-11-07
+EMP0049,Weng Hong Yap,weng.yap@mitma.com.my,Senior Manager,Sales,MGR019,2024-09-17
+EMP0050,Liyana binti Ismail,liyana.ismail@mitma.com.my,Senior Analyst,HR,MGR002,2024-10-03
+EMP0051,Priya a/l Krishnan,priya.krishnan@mitma.com.my,Manager,Operations,MGR017,2023-01-31
+EMP0052,Kumaran Chong,kumaran.chong@mitma.com.my,Director,Technology,MGR014,2021-06-13
+EMP0053,Siew Mei a/l Muthu,siew.muthu@mitma.com.my,Senior Analyst,Technology,MGR016,2024-05-31
+EMP0054,Syafiq binti Zainuddin,syafiq.zainuddin@mitma.com.my,Senior Analyst,Finance,MGR013,2026-04-27
+EMP0055,Aishah bin Abdullah,aishah.abdullah@mitma.com.my,Senior Analyst,Finance,MGR005,2025-03-30
+EMP0056,Dinesh Liew,dinesh.liew@mitma.com.my,Analyst,Sales,MGR017,2025-06-24
+EMP0057,Siti binti Hassan,siti.hassan@mitma.com.my,Analyst,Technology,MGR002,2024-04-28
+EMP0058,Arjun Cheah,arjun.cheah@mitma.com.my,Manager,Sales,MGR020,2026-02-26
+EMP0059,Ahmad a/l Raman,ahmad.raman@mitma.com.my,Director,HR,MGR004,2022-10-06
+EMP0060,Hui Shan Ooi,hui.ooi@mitma.com.my,Analyst,HR,MGR004,2024-02-03
+EMP0061,Malini Ng,malini.ng@mitma.com.my,Senior Manager,Operations,MGR004,2023-05-12
+EMP0062,Deepa a/p Rajasekaran,deepa.rajasekaran@mitma.com.my,Manager,Operations,MGR005,2025-04-11
+EMP0063,Nisha Lim,nisha.lim@mitma.com.my,Analyst,Technology,MGR014,2022-09-19
+EMP0064,Hafiz bin Othman,hafiz.othman@mitma.com.my,Analyst,Legal,MGR017,2024-11-30
+EMP0065,Mohan Wong,mohan.wong@mitma.com.my,Director,Sales,MGR005,2024-01-30
+EMP0066,Yong Jie Teh,yong.teh@mitma.com.my,Analyst,Sales,MGR020,2025-10-07
+EMP0067,Nabilah Chan,nabilah.chan@mitma.com.my,Manager,HR,MGR004,2023-08-21
+EMP0068,Muhammad Koh,muhammad.koh@mitma.com.my,Senior Analyst,Sales,MGR007,2022-01-24
+EMP0069,Lavanya Tan,lavanya.tan@mitma.com.my,Manager,Sales,MGR007,2024-06-02
+EMP0070,Boon Keng Lee,boon.lee@mitma.com.my,Senior Manager,Technology,MGR006,2026-03-17
+EMP0071,Nurul bin Mohd Nor,nurul.nor@mitma.com.my,Director,Operations,MGR007,2022-07-27
+EMP0072,Zulaikha a/p Govindasamy,zulaikha.govindasamy@mitma.com.my,Senior Manager,Technology,MGR008,2026-05-31
+EMP0073,Mei Xian Kok,mei.kok@mitma.com.my,Analyst,Legal,MGR003,2025-10-22
+EMP0074,Li Ying Goh,li.goh@mitma.com.my,Director,Legal,MGR016,2025-08-04
+EMP0075,Wei Ling binti Rahman,wei.rahman@mitma.com.my,Analyst,Sales,MGR003,2022-05-16
+EMP0076,Chun Kiat bin Yusof,chun.yusof@mitma.com.my,Analyst,Technology,MGR008,2023-11-13
+EMP0077,Azrul bin Hamid,azrul.hamid@mitma.com.my,Manager,Technology,MGR015,2026-02-23
+EMP0078,Vikram a/l Kumar,vikram.kumar@mitma.com.my,Analyst,Finance,MGR002,2021-08-25
+EMP0079,Suresh a/p Subramaniam,suresh.subramaniam@mitma.com.my,Manager,Technology,MGR011,2024-01-15
+EMP0080,Izzatul a/p Pillai,izzatul.pillai@mitma.com.my,Analyst,HR,MGR002,2026-05-17
+EMP0081,Shanthi binti Bakar,shanthi.bakar@mitma.com.my,Senior Analyst,Legal,MGR006,2024-08-01
+EMP0082,Rashid Yap,rashid.yap@mitma.com.my,Manager,Operations,MGR020,2024-12-03
+EMP0083,Farah binti Ismail,farah.ismail@mitma.com.my,Analyst,Technology,MGR011,2025-05-27
+EMP0084,Ai Leen a/l Krishnan,ai.krishnan@mitma.com.my,Analyst,Operations,MGR013,2023-11-14
+EMP0085,Norzahra Chong,norzahra.chong@mitma.com.my,Manager,Operations,MGR016,2021-12-10
+EMP0086,Kai Xin a/l Muthu,kai.muthu@mitma.com.my,Senior Manager,Legal,MGR006,2025-10-17
+EMP0087,Kavitha binti Zainuddin,kavitha.zainuddin@mitma.com.my,Senior Analyst,Legal,MGR002,2021-09-10
+EMP0088,Fikri bin Abdullah,fikri.abdullah@mitma.com.my,Senior Analyst,HR,MGR014,2023-02-12
+EMP0089,Khairul Liew,khairul.liew@mitma.com.my,Senior Manager,Sales,MGR015,2025-05-30
+EMP0090,Firdaus binti Hassan,firdaus.hassan@mitma.com.my,Director,Operations,MGR012,2022-12-31
+EMP0091,Azman Cheah,azman.cheah@mitma.com.my,Analyst,Legal,MGR005,2023-09-20
+EMP0092,Hakim a/l Raman,hakim.raman@mitma.com.my,Senior Manager,HR,MGR014,2023-12-16
+EMP0093,Suraya Ooi,suraya.ooi@mitma.com.my,Analyst,HR,MGR009,2022-10-03
+EMP0094,Rajan Ng,rajan.ng@mitma.com.my,Manager,HR,MGR017,2022-02-15
+EMP0095,Jun Hao a/p Rajasekaran,jun.rajasekaran@mitma.com.my,Director,Legal,MGR019,2025-03-04
+EMP0096,Zhi Wei Lim,zhi.lim@mitma.com.my,Manager,Sales,MGR017,2022-07-27
+EMP0097,Weng Hong bin Othman,weng.othman@mitma.com.my,Director,HR,MGR014,2022-09-19
+EMP0098,Liyana Wong,liyana.wong@mitma.com.my,Senior Analyst,Operations,MGR012,2022-09-15
+EMP0099,Priya Teh,priya.teh@mitma.com.my,Senior Manager,Finance,MGR018,2022-12-28
+EMP0100,Kumaran Chan,kumaran.chan@mitma.com.my,Analyst,HR,MGR006,2023-08-05
